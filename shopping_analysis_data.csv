@@ -1,0 +1,1001 @@
+DataCollectionMethod,FestiveSeason,OfferType,OfferPercentage,PricingStrategy,PriceFluctuation,CustomerSegment,PurchaseDecision
+Database Dump,New Year,Discount,20,Dynamic Pricing,0.04,Value-Seekers,No
+API Integration,New Year,Bundle Deal,32,Competitive Pricing,0.04,Price-Sensitive,No
+Web Scraping,Diwali,Cashback,40,Competitive Pricing,-0.02,Price-Sensitive,Yes
+Surveys,Black Friday,None,6,Dynamic Pricing,-0.07,Price-Sensitive,No
+Database Dump,Diwali,Discount,46,Dynamic Pricing,-0.07,Brand-Loyal,No
+API Integration,Diwali,Cashback,49,Fixed Pricing,0.02,Value-Seekers,Yes
+API Integration,None,Bundle Deal,37,Dynamic Pricing,0.08,Price-Sensitive,Yes
+Database Dump,New Year,None,17,Dynamic Pricing,0.09,Luxury Buyers,No
+API Integration,Christmas,Bundle Deal,14,Competitive Pricing,0.04,Value-Seekers,Yes
+Database Dump,Christmas,Discount,19,Fixed Pricing,0.04,Luxury Buyers,Yes
+Surveys,New Year,None,20,Dynamic Pricing,-0.06,Luxury Buyers,Yes
+Web Scraping,New Year,Cashback,38,Dynamic Pricing,0.04,Value-Seekers,Yes
+API Integration,New Year,Discount,25,Competitive Pricing,-0.07,Brand-Loyal,No
+Surveys,New Year,Cashback,26,Competitive Pricing,-0.02,Value-Seekers,Yes
+Database Dump,None,None,40,Competitive Pricing,0.02,Price-Sensitive,No
+Surveys,New Year,None,24,Competitive Pricing,0.09,Luxury Buyers,Yes
+API Integration,New Year,Cashback,27,Fixed Pricing,-0.01,Value-Seekers,Yes
+Web Scraping,Christmas,Bundle Deal,46,Competitive Pricing,0.08,Brand-Loyal,Yes
+Web Scraping,New Year,None,6,Dynamic Pricing,-0.05,Brand-Loyal,Yes
+Surveys,Diwali,Discount,9,Competitive Pricing,0.04,Brand-Loyal,Yes
+API Integration,Diwali,None,34,Fixed Pricing,0.08,Value-Seekers,No
+Web Scraping,Diwali,Free Gift,34,Competitive Pricing,-0.04,Value-Seekers,No
+Database Dump,Black Friday,Cashback,50,Dynamic Pricing,0.04,Value-Seekers,No
+Surveys,New Year,Bundle Deal,17,Dynamic Pricing,0.05,Value-Seekers,No
+Database Dump,New Year,Free Gift,17,Competitive Pricing,-0.03,Luxury Buyers,No
+API Integration,Christmas,Free Gift,16,Dynamic Pricing,0.04,Luxury Buyers,No
+Surveys,Christmas,None,40,Fixed Pricing,0.05,Luxury Buyers,No
+API Integration,Black Friday,Free Gift,19,Dynamic Pricing,-0.02,Luxury Buyers,Yes
+Surveys,Black Friday,Discount,47,Competitive Pricing,-0.01,Price-Sensitive,No
+Database Dump,Christmas,Bundle Deal,7,Dynamic Pricing,0.07,Brand-Loyal,No
+API Integration,Diwali,Discount,18,Dynamic Pricing,0.07,Value-Seekers,No
+Web Scraping,None,Free Gift,45,Competitive Pricing,-0.04,Luxury Buyers,Yes
+Database Dump,New Year,Bundle Deal,32,Dynamic Pricing,0.09,Value-Seekers,Yes
+API Integration,None,Cashback,50,Dynamic Pricing,0.04,Luxury Buyers,Yes
+API Integration,Christmas,Free Gift,25,Competitive Pricing,-0.06,Price-Sensitive,No
+Database Dump,Black Friday,Bundle Deal,18,Dynamic Pricing,-0.07,Value-Seekers,No
+Database Dump,None,Bundle Deal,41,Fixed Pricing,-0.01,Luxury Buyers,Yes
+API Integration,Black Friday,None,18,Dynamic Pricing,0.07,Luxury Buyers,No
+API Integration,Christmas,Bundle Deal,50,Fixed Pricing,0.09,Price-Sensitive,Yes
+Surveys,None,Free Gift,25,Dynamic Pricing,0.04,Price-Sensitive,No
+Web Scraping,Diwali,Free Gift,11,Fixed Pricing,0.01,Price-Sensitive,No
+Surveys,Black Friday,Discount,29,Competitive Pricing,0.05,Price-Sensitive,Yes
+Surveys,New Year,Free Gift,24,Dynamic Pricing,0.09,Price-Sensitive,No
+Database Dump,New Year,Discount,8,Dynamic Pricing,-0.01,Value-Seekers,Yes
+API Integration,Black Friday,Discount,19,Fixed Pricing,0.05,Price-Sensitive,Yes
+Surveys,Christmas,None,46,Dynamic Pricing,0.0,Price-Sensitive,No
+Surveys,Christmas,Free Gift,6,Fixed Pricing,0.04,Value-Seekers,No
+API Integration,Christmas,Bundle Deal,8,Competitive Pricing,0.03,Value-Seekers,Yes
+API Integration,Diwali,Discount,30,Dynamic Pricing,-0.03,Luxury Buyers,Yes
+Database Dump,Christmas,Free Gift,29,Dynamic Pricing,0.04,Brand-Loyal,No
+Surveys,Christmas,Discount,7,Dynamic Pricing,-0.0,Luxury Buyers,No
+Surveys,Diwali,Free Gift,21,Fixed Pricing,0.06,Price-Sensitive,No
+API Integration,None,Cashback,43,Fixed Pricing,0.0,Value-Seekers,No
+Database Dump,None,Cashback,17,Competitive Pricing,0.02,Brand-Loyal,No
+Surveys,None,Free Gift,6,Fixed Pricing,-0.06,Price-Sensitive,Yes
+Web Scraping,None,Discount,5,Fixed Pricing,0.0,Brand-Loyal,No
+API Integration,Christmas,None,34,Competitive Pricing,-0.06,Luxury Buyers,Yes
+API Integration,New Year,None,21,Competitive Pricing,0.03,Luxury Buyers,No
+Web Scraping,New Year,Cashback,23,Fixed Pricing,0.07,Value-Seekers,Yes
+Surveys,New Year,Free Gift,44,Dynamic Pricing,0.07,Brand-Loyal,Yes
+API Integration,Christmas,Free Gift,24,Competitive Pricing,0.03,Value-Seekers,No
+Web Scraping,Diwali,Bundle Deal,14,Fixed Pricing,-0.09,Value-Seekers,No
+Web Scraping,Christmas,Free Gift,38,Fixed Pricing,-0.05,Value-Seekers,No
+Web Scraping,Black Friday,Cashback,23,Fixed Pricing,0.06,Luxury Buyers,No
+Database Dump,Black Friday,Discount,31,Fixed Pricing,-0.08,Price-Sensitive,Yes
+Database Dump,None,None,15,Fixed Pricing,-0.03,Luxury Buyers,No
+API Integration,New Year,Discount,12,Fixed Pricing,0.08,Brand-Loyal,Yes
+Web Scraping,New Year,Bundle Deal,27,Dynamic Pricing,0.06,Value-Seekers,No
+Surveys,Black Friday,Cashback,6,Dynamic Pricing,-0.05,Value-Seekers,Yes
+Web Scraping,Christmas,Bundle Deal,41,Competitive Pricing,-0.08,Brand-Loyal,No
+Surveys,New Year,Bundle Deal,43,Dynamic Pricing,-0.06,Value-Seekers,No
+Web Scraping,Christmas,Discount,37,Competitive Pricing,0.02,Price-Sensitive,No
+API Integration,None,Free Gift,23,Fixed Pricing,-0.04,Price-Sensitive,No
+Database Dump,Christmas,Cashback,45,Competitive Pricing,-0.09,Luxury Buyers,No
+Surveys,Diwali,Free Gift,17,Dynamic Pricing,0.02,Value-Seekers,No
+Web Scraping,Black Friday,Bundle Deal,50,Competitive Pricing,-0.01,Brand-Loyal,Yes
+Surveys,Diwali,Discount,13,Competitive Pricing,-0.06,Luxury Buyers,No
+Web Scraping,New Year,Discount,17,Fixed Pricing,0.08,Brand-Loyal,Yes
+API Integration,New Year,Cashback,10,Competitive Pricing,-0.05,Brand-Loyal,No
+Surveys,Christmas,Free Gift,22,Fixed Pricing,-0.03,Value-Seekers,Yes
+Database Dump,None,Bundle Deal,16,Dynamic Pricing,-0.1,Luxury Buyers,No
+API Integration,None,Discount,10,Fixed Pricing,0.0,Luxury Buyers,No
+Surveys,Diwali,Cashback,42,Dynamic Pricing,-0.03,Brand-Loyal,No
+Web Scraping,Christmas,Cashback,30,Fixed Pricing,0.09,Price-Sensitive,No
+Database Dump,Black Friday,Free Gift,13,Competitive Pricing,-0.04,Luxury Buyers,Yes
+Web Scraping,Christmas,Cashback,36,Fixed Pricing,-0.03,Value-Seekers,Yes
+Surveys,New Year,Bundle Deal,16,Dynamic Pricing,-0.08,Luxury Buyers,No
+Surveys,Diwali,Cashback,36,Fixed Pricing,-0.0,Brand-Loyal,No
+Surveys,Diwali,Discount,17,Dynamic Pricing,0.05,Price-Sensitive,Yes
+Database Dump,Black Friday,Cashback,28,Fixed Pricing,0.08,Brand-Loyal,Yes
+Surveys,Diwali,Cashback,32,Competitive Pricing,-0.08,Brand-Loyal,No
+Surveys,Diwali,None,5,Competitive Pricing,-0.07,Price-Sensitive,No
+Surveys,Diwali,Cashback,42,Competitive Pricing,-0.09,Luxury Buyers,No
+API Integration,Black Friday,Cashback,34,Fixed Pricing,0.02,Price-Sensitive,No
+API Integration,New Year,None,13,Fixed Pricing,0.07,Luxury Buyers,No
+Database Dump,Christmas,Cashback,7,Fixed Pricing,-0.05,Value-Seekers,No
+Surveys,None,Discount,47,Dynamic Pricing,0.01,Value-Seekers,No
+Surveys,Diwali,Discount,33,Fixed Pricing,-0.08,Brand-Loyal,Yes
+API Integration,Black Friday,Bundle Deal,20,Fixed Pricing,0.0,Brand-Loyal,Yes
+API Integration,Black Friday,Discount,12,Competitive Pricing,0.05,Brand-Loyal,No
+Database Dump,None,Cashback,10,Fixed Pricing,-0.09,Price-Sensitive,No
+API Integration,New Year,Discount,32,Fixed Pricing,0.1,Value-Seekers,Yes
+Database Dump,Diwali,None,35,Fixed Pricing,0.07,Price-Sensitive,No
+API Integration,Black Friday,Discount,5,Dynamic Pricing,0.08,Value-Seekers,No
+API Integration,Diwali,Cashback,30,Fixed Pricing,0.04,Brand-Loyal,No
+Surveys,Diwali,Free Gift,36,Competitive Pricing,0.03,Price-Sensitive,Yes
+Surveys,Diwali,None,28,Competitive Pricing,0.06,Brand-Loyal,Yes
+Web Scraping,Diwali,Bundle Deal,46,Dynamic Pricing,-0.1,Brand-Loyal,Yes
+Database Dump,Christmas,Bundle Deal,41,Fixed Pricing,-0.05,Luxury Buyers,Yes
+Surveys,New Year,Discount,49,Fixed Pricing,-0.03,Price-Sensitive,No
+Surveys,None,Free Gift,30,Fixed Pricing,0.06,Luxury Buyers,No
+Web Scraping,None,Bundle Deal,39,Fixed Pricing,0.03,Brand-Loyal,No
+Database Dump,Black Friday,None,13,Competitive Pricing,-0.07,Price-Sensitive,Yes
+Database Dump,Diwali,Bundle Deal,28,Fixed Pricing,-0.07,Brand-Loyal,No
+Surveys,Black Friday,None,29,Competitive Pricing,-0.06,Price-Sensitive,No
+Database Dump,None,Bundle Deal,13,Dynamic Pricing,-0.05,Luxury Buyers,Yes
+Surveys,Diwali,Free Gift,48,Fixed Pricing,-0.01,Brand-Loyal,Yes
+Surveys,Christmas,None,18,Dynamic Pricing,0.09,Value-Seekers,Yes
+Web Scraping,Diwali,Discount,46,Dynamic Pricing,0.02,Value-Seekers,No
+API Integration,Diwali,Cashback,13,Dynamic Pricing,0.07,Luxury Buyers,No
+Web Scraping,Diwali,Discount,47,Dynamic Pricing,-0.02,Brand-Loyal,Yes
+API Integration,New Year,None,21,Fixed Pricing,0.06,Price-Sensitive,Yes
+Web Scraping,Christmas,Discount,18,Dynamic Pricing,0.04,Price-Sensitive,No
+API Integration,None,None,12,Fixed Pricing,-0.05,Value-Seekers,Yes
+Surveys,Christmas,Cashback,15,Fixed Pricing,-0.01,Value-Seekers,Yes
+Web Scraping,Black Friday,Discount,31,Dynamic Pricing,-0.02,Value-Seekers,Yes
+Database Dump,Diwali,Cashback,30,Dynamic Pricing,-0.08,Brand-Loyal,No
+Web Scraping,Diwali,Discount,36,Competitive Pricing,-0.0,Value-Seekers,Yes
+Database Dump,Christmas,Cashback,5,Competitive Pricing,0.1,Luxury Buyers,Yes
+Web Scraping,Christmas,Discount,8,Dynamic Pricing,0.03,Price-Sensitive,No
+API Integration,Black Friday,Cashback,35,Fixed Pricing,0.07,Price-Sensitive,No
+Surveys,Diwali,Discount,16,Dynamic Pricing,0.05,Brand-Loyal,No
+Surveys,New Year,Bundle Deal,48,Fixed Pricing,0.05,Luxury Buyers,No
+Database Dump,Christmas,Bundle Deal,9,Competitive Pricing,0.06,Brand-Loyal,No
+Web Scraping,Diwali,Free Gift,6,Fixed Pricing,-0.07,Brand-Loyal,Yes
+Database Dump,Black Friday,Free Gift,21,Dynamic Pricing,0.01,Luxury Buyers,No
+Surveys,New Year,Cashback,41,Competitive Pricing,0.0,Luxury Buyers,Yes
+API Integration,Black Friday,Bundle Deal,43,Dynamic Pricing,0.05,Luxury Buyers,No
+API Integration,Christmas,Cashback,42,Competitive Pricing,-0.06,Luxury Buyers,Yes
+Surveys,Christmas,Discount,48,Dynamic Pricing,0.01,Brand-Loyal,Yes
+Web Scraping,Christmas,Free Gift,10,Dynamic Pricing,-0.09,Price-Sensitive,Yes
+API Integration,Christmas,None,37,Competitive Pricing,0.04,Brand-Loyal,Yes
+Surveys,Diwali,None,21,Dynamic Pricing,-0.02,Luxury Buyers,Yes
+API Integration,Diwali,Free Gift,42,Dynamic Pricing,-0.01,Price-Sensitive,Yes
+Surveys,New Year,Discount,36,Dynamic Pricing,-0.02,Luxury Buyers,No
+Web Scraping,New Year,Cashback,38,Competitive Pricing,0.05,Luxury Buyers,Yes
+Surveys,Diwali,Bundle Deal,37,Dynamic Pricing,0.08,Luxury Buyers,No
+Web Scraping,Black Friday,Free Gift,14,Dynamic Pricing,0.02,Value-Seekers,No
+API Integration,Christmas,None,10,Fixed Pricing,-0.1,Brand-Loyal,Yes
+Database Dump,Black Friday,Free Gift,34,Dynamic Pricing,-0.09,Luxury Buyers,No
+API Integration,Christmas,Cashback,46,Fixed Pricing,-0.07,Price-Sensitive,No
+Surveys,Black Friday,Bundle Deal,38,Competitive Pricing,0.06,Value-Seekers,Yes
+API Integration,Diwali,Cashback,49,Dynamic Pricing,0.02,Luxury Buyers,Yes
+Database Dump,Diwali,Bundle Deal,23,Fixed Pricing,-0.03,Value-Seekers,Yes
+Web Scraping,New Year,Bundle Deal,8,Fixed Pricing,0.06,Brand-Loyal,No
+Surveys,None,Bundle Deal,22,Fixed Pricing,-0.04,Price-Sensitive,No
+Database Dump,Christmas,Free Gift,43,Dynamic Pricing,0.09,Value-Seekers,Yes
+API Integration,Diwali,Cashback,33,Dynamic Pricing,0.07,Price-Sensitive,Yes
+Database Dump,Christmas,Cashback,36,Competitive Pricing,-0.02,Brand-Loyal,No
+Web Scraping,Diwali,Cashback,23,Competitive Pricing,0.06,Luxury Buyers,Yes
+API Integration,Diwali,Free Gift,36,Fixed Pricing,-0.1,Luxury Buyers,No
+Database Dump,Black Friday,Cashback,47,Competitive Pricing,0.02,Luxury Buyers,Yes
+API Integration,Christmas,Free Gift,13,Dynamic Pricing,-0.0,Luxury Buyers,No
+API Integration,Diwali,Cashback,46,Competitive Pricing,-0.03,Price-Sensitive,No
+Web Scraping,Diwali,Cashback,14,Fixed Pricing,-0.07,Price-Sensitive,No
+Surveys,New Year,Discount,45,Dynamic Pricing,0.03,Brand-Loyal,Yes
+Web Scraping,Christmas,Bundle Deal,42,Competitive Pricing,0.04,Luxury Buyers,Yes
+Database Dump,Diwali,Discount,8,Dynamic Pricing,-0.09,Price-Sensitive,No
+Surveys,Diwali,Bundle Deal,40,Dynamic Pricing,0.01,Brand-Loyal,Yes
+API Integration,Diwali,None,13,Fixed Pricing,-0.06,Price-Sensitive,No
+Database Dump,None,Bundle Deal,44,Dynamic Pricing,-0.03,Luxury Buyers,Yes
+Database Dump,None,None,5,Fixed Pricing,0.07,Brand-Loyal,Yes
+Database Dump,None,Bundle Deal,37,Fixed Pricing,0.08,Price-Sensitive,No
+API Integration,None,None,36,Competitive Pricing,-0.06,Value-Seekers,Yes
+API Integration,None,Cashback,9,Competitive Pricing,-0.08,Value-Seekers,Yes
+Database Dump,New Year,Bundle Deal,29,Dynamic Pricing,-0.07,Luxury Buyers,No
+API Integration,None,None,20,Dynamic Pricing,0.02,Value-Seekers,No
+API Integration,New Year,Discount,27,Fixed Pricing,-0.02,Value-Seekers,No
+Web Scraping,Diwali,Discount,24,Fixed Pricing,-0.09,Price-Sensitive,No
+Database Dump,None,Bundle Deal,29,Fixed Pricing,0.01,Price-Sensitive,No
+API Integration,Black Friday,Bundle Deal,49,Competitive Pricing,-0.06,Value-Seekers,Yes
+Database Dump,New Year,None,48,Dynamic Pricing,-0.1,Luxury Buyers,No
+Database Dump,New Year,Free Gift,7,Competitive Pricing,0.1,Price-Sensitive,No
+Web Scraping,None,Cashback,15,Fixed Pricing,-0.1,Luxury Buyers,No
+Surveys,Black Friday,Cashback,31,Competitive Pricing,0.08,Value-Seekers,No
+Database Dump,New Year,None,18,Fixed Pricing,-0.02,Brand-Loyal,Yes
+API Integration,New Year,Bundle Deal,41,Competitive Pricing,0.04,Luxury Buyers,Yes
+API Integration,Christmas,Cashback,47,Dynamic Pricing,0.01,Luxury Buyers,Yes
+API Integration,Diwali,Bundle Deal,19,Fixed Pricing,0.08,Value-Seekers,No
+Surveys,New Year,Cashback,13,Fixed Pricing,0.07,Value-Seekers,No
+Web Scraping,None,Bundle Deal,8,Fixed Pricing,-0.05,Luxury Buyers,No
+Database Dump,Diwali,Bundle Deal,15,Competitive Pricing,-0.07,Luxury Buyers,No
+API Integration,Black Friday,None,39,Fixed Pricing,-0.02,Value-Seekers,Yes
+Web Scraping,Diwali,None,46,Fixed Pricing,0.0,Brand-Loyal,Yes
+Web Scraping,None,Bundle Deal,27,Fixed Pricing,-0.04,Price-Sensitive,No
+Web Scraping,Christmas,Discount,50,Fixed Pricing,-0.09,Price-Sensitive,No
+Web Scraping,Black Friday,Bundle Deal,25,Competitive Pricing,-0.07,Price-Sensitive,No
+Surveys,New Year,Cashback,16,Competitive Pricing,0.03,Price-Sensitive,Yes
+API Integration,Christmas,Discount,37,Fixed Pricing,0.07,Value-Seekers,No
+Surveys,Diwali,None,14,Fixed Pricing,-0.04,Luxury Buyers,No
+API Integration,Diwali,Discount,19,Fixed Pricing,0.06,Brand-Loyal,No
+Database Dump,New Year,None,19,Dynamic Pricing,0.1,Price-Sensitive,Yes
+Database Dump,None,Free Gift,47,Fixed Pricing,-0.06,Brand-Loyal,Yes
+Web Scraping,None,Discount,5,Competitive Pricing,-0.0,Price-Sensitive,No
+Web Scraping,Diwali,Discount,6,Competitive Pricing,-0.09,Brand-Loyal,No
+Web Scraping,Black Friday,Discount,49,Dynamic Pricing,-0.02,Price-Sensitive,No
+API Integration,Diwali,Discount,49,Dynamic Pricing,-0.09,Brand-Loyal,Yes
+Surveys,New Year,Cashback,37,Fixed Pricing,0.1,Luxury Buyers,Yes
+Surveys,None,None,17,Competitive Pricing,-0.04,Price-Sensitive,Yes
+API Integration,None,Free Gift,19,Fixed Pricing,-0.09,Luxury Buyers,Yes
+Surveys,New Year,Discount,39,Competitive Pricing,-0.08,Brand-Loyal,No
+Web Scraping,Christmas,Bundle Deal,46,Competitive Pricing,0.05,Luxury Buyers,Yes
+Web Scraping,Diwali,Bundle Deal,18,Dynamic Pricing,0.03,Value-Seekers,No
+API Integration,None,Cashback,21,Competitive Pricing,-0.07,Value-Seekers,Yes
+Database Dump,New Year,None,39,Competitive Pricing,-0.1,Price-Sensitive,No
+API Integration,Christmas,Cashback,17,Fixed Pricing,0.06,Brand-Loyal,No
+API Integration,Black Friday,Bundle Deal,50,Fixed Pricing,-0.04,Luxury Buyers,Yes
+Surveys,New Year,None,26,Competitive Pricing,0.06,Price-Sensitive,Yes
+API Integration,Diwali,Cashback,38,Fixed Pricing,0.08,Price-Sensitive,No
+Database Dump,Black Friday,Discount,31,Competitive Pricing,0.06,Price-Sensitive,Yes
+Database Dump,Black Friday,Cashback,18,Fixed Pricing,0.07,Luxury Buyers,No
+Web Scraping,New Year,Free Gift,40,Fixed Pricing,-0.07,Price-Sensitive,No
+Surveys,New Year,Free Gift,7,Competitive Pricing,0.05,Price-Sensitive,No
+API Integration,New Year,None,5,Competitive Pricing,-0.07,Luxury Buyers,Yes
+API Integration,New Year,Discount,48,Competitive Pricing,-0.09,Price-Sensitive,Yes
+API Integration,Diwali,Free Gift,33,Competitive Pricing,-0.08,Luxury Buyers,No
+Web Scraping,New Year,Cashback,46,Fixed Pricing,0.01,Brand-Loyal,No
+Database Dump,Christmas,Cashback,21,Competitive Pricing,0.04,Luxury Buyers,Yes
+Surveys,New Year,Cashback,27,Dynamic Pricing,0.01,Luxury Buyers,Yes
+Surveys,Diwali,Bundle Deal,32,Fixed Pricing,0.07,Price-Sensitive,Yes
+API Integration,New Year,Discount,40,Fixed Pricing,-0.1,Price-Sensitive,No
+API Integration,New Year,None,26,Competitive Pricing,0.05,Luxury Buyers,No
+API Integration,Christmas,Bundle Deal,22,Competitive Pricing,0.09,Brand-Loyal,Yes
+Database Dump,Black Friday,Bundle Deal,7,Competitive Pricing,0.09,Luxury Buyers,Yes
+Surveys,Christmas,Bundle Deal,10,Dynamic Pricing,0.05,Value-Seekers,Yes
+API Integration,Christmas,Discount,17,Competitive Pricing,-0.08,Price-Sensitive,Yes
+Surveys,Christmas,Bundle Deal,31,Competitive Pricing,-0.07,Price-Sensitive,No
+Surveys,Diwali,Bundle Deal,12,Competitive Pricing,-0.01,Price-Sensitive,No
+Web Scraping,Black Friday,Bundle Deal,44,Competitive Pricing,0.06,Luxury Buyers,No
+Database Dump,Black Friday,None,15,Dynamic Pricing,-0.01,Luxury Buyers,No
+Surveys,Christmas,Bundle Deal,27,Dynamic Pricing,0.05,Luxury Buyers,Yes
+Web Scraping,Christmas,None,38,Dynamic Pricing,0.06,Price-Sensitive,Yes
+Database Dump,Black Friday,Discount,25,Dynamic Pricing,-0.09,Brand-Loyal,No
+API Integration,New Year,None,44,Fixed Pricing,-0.09,Value-Seekers,No
+Database Dump,None,None,16,Dynamic Pricing,-0.0,Luxury Buyers,Yes
+Surveys,None,Discount,21,Fixed Pricing,-0.08,Price-Sensitive,Yes
+Database Dump,Diwali,Bundle Deal,29,Dynamic Pricing,-0.02,Value-Seekers,No
+API Integration,Christmas,Cashback,46,Competitive Pricing,-0.09,Value-Seekers,Yes
+Web Scraping,Christmas,Discount,17,Competitive Pricing,-0.06,Price-Sensitive,Yes
+Database Dump,Diwali,None,45,Fixed Pricing,-0.09,Price-Sensitive,No
+Database Dump,None,Cashback,28,Fixed Pricing,-0.07,Price-Sensitive,No
+API Integration,Christmas,Free Gift,50,Competitive Pricing,0.09,Brand-Loyal,Yes
+Web Scraping,New Year,Cashback,30,Fixed Pricing,0.08,Luxury Buyers,No
+Database Dump,Christmas,Cashback,28,Competitive Pricing,0.03,Brand-Loyal,No
+Surveys,None,None,23,Fixed Pricing,0.02,Price-Sensitive,Yes
+Surveys,None,Free Gift,42,Dynamic Pricing,0.1,Value-Seekers,Yes
+Web Scraping,None,Bundle Deal,37,Fixed Pricing,0.01,Luxury Buyers,No
+Database Dump,Diwali,Bundle Deal,30,Competitive Pricing,-0.06,Luxury Buyers,No
+API Integration,Diwali,Bundle Deal,11,Competitive Pricing,-0.04,Price-Sensitive,Yes
+Database Dump,Christmas,Discount,14,Competitive Pricing,-0.06,Brand-Loyal,No
+Database Dump,New Year,Free Gift,33,Competitive Pricing,0.09,Price-Sensitive,No
+API Integration,None,Free Gift,9,Fixed Pricing,-0.06,Brand-Loyal,Yes
+Database Dump,None,Discount,15,Fixed Pricing,0.06,Value-Seekers,No
+Database Dump,None,Cashback,43,Fixed Pricing,0.07,Luxury Buyers,No
+Web Scraping,Christmas,Discount,7,Fixed Pricing,-0.04,Brand-Loyal,No
+Surveys,Christmas,Bundle Deal,22,Fixed Pricing,0.02,Value-Seekers,No
+Surveys,Black Friday,None,45,Dynamic Pricing,-0.02,Brand-Loyal,No
+Database Dump,None,Bundle Deal,11,Dynamic Pricing,0.05,Luxury Buyers,Yes
+API Integration,None,Discount,28,Dynamic Pricing,0.03,Price-Sensitive,Yes
+API Integration,Black Friday,Bundle Deal,9,Dynamic Pricing,0.01,Value-Seekers,No
+Database Dump,Christmas,Free Gift,42,Competitive Pricing,-0.02,Price-Sensitive,No
+Database Dump,Diwali,Cashback,41,Dynamic Pricing,0.09,Value-Seekers,No
+Surveys,Diwali,Free Gift,25,Competitive Pricing,0.04,Brand-Loyal,No
+Database Dump,New Year,Discount,36,Dynamic Pricing,-0.02,Price-Sensitive,No
+Database Dump,Black Friday,None,11,Fixed Pricing,-0.06,Price-Sensitive,Yes
+Database Dump,Christmas,Bundle Deal,36,Competitive Pricing,-0.03,Value-Seekers,No
+Surveys,New Year,Free Gift,43,Dynamic Pricing,0.03,Brand-Loyal,Yes
+API Integration,Black Friday,Free Gift,7,Competitive Pricing,0.02,Luxury Buyers,Yes
+Web Scraping,Black Friday,Free Gift,8,Fixed Pricing,-0.01,Price-Sensitive,No
+Surveys,Diwali,None,21,Fixed Pricing,0.05,Value-Seekers,No
+API Integration,Diwali,Bundle Deal,49,Fixed Pricing,-0.06,Value-Seekers,No
+Surveys,Diwali,Cashback,17,Fixed Pricing,0.03,Price-Sensitive,Yes
+Surveys,Diwali,Cashback,9,Dynamic Pricing,0.06,Price-Sensitive,Yes
+Database Dump,None,Free Gift,45,Competitive Pricing,-0.01,Brand-Loyal,No
+Surveys,Christmas,Bundle Deal,8,Competitive Pricing,0.04,Price-Sensitive,No
+Database Dump,Christmas,Free Gift,30,Fixed Pricing,0.03,Luxury Buyers,Yes
+Surveys,New Year,Cashback,10,Competitive Pricing,0.01,Luxury Buyers,No
+Database Dump,Christmas,None,19,Dynamic Pricing,-0.02,Luxury Buyers,No
+API Integration,Diwali,Free Gift,16,Dynamic Pricing,0.05,Value-Seekers,Yes
+Web Scraping,New Year,Free Gift,46,Competitive Pricing,0.06,Luxury Buyers,Yes
+API Integration,None,Bundle Deal,20,Fixed Pricing,-0.09,Brand-Loyal,No
+API Integration,Diwali,None,32,Fixed Pricing,0.08,Brand-Loyal,No
+Database Dump,Diwali,Cashback,36,Fixed Pricing,-0.03,Price-Sensitive,Yes
+Web Scraping,Diwali,Free Gift,26,Dynamic Pricing,0.03,Luxury Buyers,Yes
+API Integration,New Year,Bundle Deal,30,Competitive Pricing,0.02,Luxury Buyers,Yes
+Web Scraping,None,Discount,37,Dynamic Pricing,-0.02,Brand-Loyal,Yes
+Web Scraping,Diwali,Free Gift,10,Fixed Pricing,-0.01,Price-Sensitive,Yes
+Web Scraping,None,Free Gift,29,Fixed Pricing,0.08,Brand-Loyal,Yes
+Web Scraping,Diwali,Discount,19,Fixed Pricing,-0.06,Brand-Loyal,No
+Database Dump,Christmas,Discount,12,Competitive Pricing,-0.0,Luxury Buyers,Yes
+Surveys,Christmas,Cashback,48,Competitive Pricing,0.01,Price-Sensitive,No
+Web Scraping,None,Bundle Deal,34,Dynamic Pricing,-0.05,Value-Seekers,No
+Database Dump,New Year,Bundle Deal,15,Competitive Pricing,0.01,Value-Seekers,No
+Database Dump,None,Cashback,13,Fixed Pricing,0.01,Luxury Buyers,No
+Database Dump,Christmas,Cashback,49,Fixed Pricing,0.09,Brand-Loyal,No
+Surveys,None,Free Gift,38,Competitive Pricing,-0.08,Luxury Buyers,Yes
+Database Dump,None,Bundle Deal,17,Competitive Pricing,-0.01,Value-Seekers,Yes
+Surveys,None,Bundle Deal,13,Competitive Pricing,0.06,Luxury Buyers,Yes
+API Integration,Black Friday,Bundle Deal,12,Competitive Pricing,-0.06,Brand-Loyal,No
+Surveys,None,Discount,32,Fixed Pricing,0.0,Brand-Loyal,No
+Web Scraping,New Year,Cashback,35,Competitive Pricing,-0.05,Luxury Buyers,Yes
+Database Dump,Christmas,Bundle Deal,28,Fixed Pricing,0.0,Price-Sensitive,No
+Web Scraping,New Year,Free Gift,13,Fixed Pricing,0.05,Luxury Buyers,Yes
+API Integration,New Year,None,35,Fixed Pricing,-0.04,Value-Seekers,No
+Surveys,Diwali,Free Gift,35,Competitive Pricing,-0.09,Luxury Buyers,Yes
+Web Scraping,Christmas,Discount,37,Fixed Pricing,0.03,Luxury Buyers,Yes
+Surveys,None,Free Gift,36,Fixed Pricing,-0.02,Price-Sensitive,Yes
+API Integration,Christmas,Discount,31,Fixed Pricing,0.02,Luxury Buyers,No
+Web Scraping,None,Cashback,25,Dynamic Pricing,0.07,Value-Seekers,No
+Web Scraping,None,Free Gift,40,Dynamic Pricing,-0.04,Brand-Loyal,Yes
+API Integration,None,Cashback,20,Fixed Pricing,-0.02,Luxury Buyers,No
+Surveys,None,None,48,Dynamic Pricing,-0.01,Price-Sensitive,No
+Surveys,Diwali,Cashback,30,Dynamic Pricing,-0.04,Value-Seekers,No
+Surveys,Black Friday,Cashback,23,Competitive Pricing,0.08,Brand-Loyal,No
+API Integration,Black Friday,Bundle Deal,7,Fixed Pricing,-0.04,Value-Seekers,Yes
+Web Scraping,Christmas,Free Gift,30,Dynamic Pricing,-0.0,Value-Seekers,Yes
+Surveys,None,None,6,Competitive Pricing,0.05,Luxury Buyers,No
+API Integration,None,Bundle Deal,9,Competitive Pricing,0.04,Brand-Loyal,Yes
+Surveys,Christmas,Cashback,35,Fixed Pricing,-0.08,Brand-Loyal,No
+Database Dump,Black Friday,Discount,42,Competitive Pricing,-0.02,Brand-Loyal,Yes
+API Integration,Black Friday,None,30,Fixed Pricing,0.08,Price-Sensitive,No
+API Integration,New Year,Bundle Deal,47,Dynamic Pricing,0.0,Luxury Buyers,No
+API Integration,Christmas,Bundle Deal,5,Dynamic Pricing,-0.07,Brand-Loyal,No
+Database Dump,None,Free Gift,29,Dynamic Pricing,0.09,Luxury Buyers,No
+Surveys,Diwali,None,36,Competitive Pricing,-0.06,Value-Seekers,No
+Surveys,None,Discount,24,Dynamic Pricing,-0.0,Value-Seekers,No
+API Integration,Black Friday,Bundle Deal,28,Fixed Pricing,-0.04,Brand-Loyal,No
+Surveys,Diwali,Bundle Deal,34,Fixed Pricing,0.0,Price-Sensitive,No
+API Integration,New Year,Bundle Deal,21,Fixed Pricing,0.08,Brand-Loyal,No
+Database Dump,New Year,Cashback,50,Fixed Pricing,0.01,Luxury Buyers,No
+Database Dump,None,Discount,19,Competitive Pricing,0.03,Luxury Buyers,No
+Surveys,None,Bundle Deal,30,Fixed Pricing,-0.06,Value-Seekers,No
+API Integration,Christmas,Discount,6,Dynamic Pricing,0.04,Price-Sensitive,No
+API Integration,Diwali,Discount,5,Dynamic Pricing,0.05,Brand-Loyal,No
+Surveys,Diwali,Bundle Deal,10,Fixed Pricing,-0.07,Price-Sensitive,No
+Database Dump,New Year,None,21,Fixed Pricing,-0.07,Value-Seekers,No
+API Integration,None,Cashback,14,Dynamic Pricing,0.04,Brand-Loyal,No
+Web Scraping,None,Cashback,14,Dynamic Pricing,0.05,Brand-Loyal,Yes
+Surveys,New Year,Bundle Deal,33,Dynamic Pricing,-0.0,Luxury Buyers,Yes
+Database Dump,New Year,None,49,Dynamic Pricing,-0.06,Luxury Buyers,Yes
+API Integration,Diwali,Bundle Deal,40,Competitive Pricing,-0.01,Brand-Loyal,Yes
+API Integration,New Year,Free Gift,19,Dynamic Pricing,0.09,Price-Sensitive,No
+Surveys,Diwali,Discount,39,Competitive Pricing,0.07,Price-Sensitive,Yes
+Surveys,None,Cashback,5,Competitive Pricing,0.04,Price-Sensitive,No
+Web Scraping,Diwali,Free Gift,16,Fixed Pricing,-0.0,Price-Sensitive,No
+API Integration,New Year,None,44,Fixed Pricing,-0.07,Value-Seekers,Yes
+Database Dump,Black Friday,None,5,Dynamic Pricing,0.07,Luxury Buyers,No
+Web Scraping,Black Friday,Discount,12,Competitive Pricing,-0.03,Price-Sensitive,Yes
+API Integration,None,Bundle Deal,47,Fixed Pricing,-0.02,Brand-Loyal,No
+API Integration,Black Friday,Cashback,48,Competitive Pricing,0.07,Brand-Loyal,No
+API Integration,New Year,Discount,26,Competitive Pricing,-0.08,Value-Seekers,Yes
+Web Scraping,Black Friday,Cashback,29,Dynamic Pricing,-0.09,Price-Sensitive,No
+Database Dump,Diwali,Discount,17,Competitive Pricing,0.09,Price-Sensitive,Yes
+Database Dump,Black Friday,Cashback,27,Dynamic Pricing,-0.06,Luxury Buyers,No
+Database Dump,Black Friday,Cashback,20,Competitive Pricing,0.09,Luxury Buyers,Yes
+Database Dump,New Year,None,47,Competitive Pricing,0.09,Luxury Buyers,Yes
+Web Scraping,Diwali,None,10,Fixed Pricing,-0.02,Luxury Buyers,Yes
+Surveys,Black Friday,Discount,35,Competitive Pricing,-0.08,Value-Seekers,No
+Surveys,New Year,Free Gift,7,Dynamic Pricing,-0.06,Price-Sensitive,Yes
+Web Scraping,None,Bundle Deal,7,Dynamic Pricing,0.01,Value-Seekers,No
+Database Dump,Diwali,Discount,44,Dynamic Pricing,0.09,Luxury Buyers,Yes
+API Integration,Diwali,Bundle Deal,5,Dynamic Pricing,-0.1,Price-Sensitive,Yes
+Surveys,Diwali,Discount,19,Dynamic Pricing,-0.07,Value-Seekers,No
+Web Scraping,New Year,Discount,34,Competitive Pricing,-0.08,Price-Sensitive,Yes
+API Integration,Christmas,Cashback,50,Competitive Pricing,-0.04,Value-Seekers,No
+API Integration,Christmas,Discount,24,Fixed Pricing,0.03,Price-Sensitive,Yes
+Web Scraping,Christmas,Free Gift,16,Dynamic Pricing,-0.1,Brand-Loyal,No
+API Integration,Black Friday,None,16,Competitive Pricing,0.09,Price-Sensitive,No
+Web Scraping,Diwali,None,21,Fixed Pricing,0.02,Brand-Loyal,Yes
+Web Scraping,Christmas,None,23,Competitive Pricing,0.01,Brand-Loyal,Yes
+Web Scraping,Diwali,Cashback,6,Fixed Pricing,-0.09,Luxury Buyers,No
+Database Dump,None,Discount,9,Fixed Pricing,-0.01,Price-Sensitive,Yes
+Surveys,Diwali,None,15,Fixed Pricing,-0.04,Value-Seekers,Yes
+Web Scraping,Christmas,Discount,26,Competitive Pricing,0.02,Luxury Buyers,Yes
+API Integration,Christmas,Bundle Deal,6,Fixed Pricing,0.07,Luxury Buyers,No
+Database Dump,New Year,None,43,Fixed Pricing,0.01,Value-Seekers,Yes
+Database Dump,New Year,Free Gift,35,Competitive Pricing,0.02,Value-Seekers,No
+Database Dump,New Year,Cashback,19,Competitive Pricing,-0.04,Brand-Loyal,No
+Database Dump,New Year,None,48,Dynamic Pricing,-0.0,Luxury Buyers,No
+Surveys,Diwali,None,9,Competitive Pricing,0.04,Brand-Loyal,Yes
+Surveys,Christmas,Discount,34,Fixed Pricing,-0.05,Brand-Loyal,No
+Database Dump,Diwali,Discount,42,Dynamic Pricing,0.06,Luxury Buyers,No
+API Integration,Black Friday,Free Gift,39,Fixed Pricing,0.09,Brand-Loyal,No
+Surveys,Christmas,Free Gift,23,Competitive Pricing,-0.1,Price-Sensitive,Yes
+Database Dump,Christmas,Free Gift,25,Competitive Pricing,-0.1,Brand-Loyal,Yes
+Database Dump,Diwali,Bundle Deal,16,Competitive Pricing,-0.01,Value-Seekers,Yes
+Surveys,Black Friday,Discount,30,Fixed Pricing,-0.08,Price-Sensitive,No
+API Integration,None,Free Gift,47,Competitive Pricing,-0.03,Luxury Buyers,Yes
+Database Dump,None,Free Gift,33,Dynamic Pricing,-0.03,Brand-Loyal,No
+Database Dump,Christmas,Free Gift,35,Dynamic Pricing,-0.03,Brand-Loyal,No
+Database Dump,Christmas,None,38,Competitive Pricing,0.08,Price-Sensitive,Yes
+Surveys,Black Friday,Discount,35,Competitive Pricing,0.09,Brand-Loyal,Yes
+Web Scraping,None,Free Gift,14,Competitive Pricing,0.06,Value-Seekers,No
+API Integration,Christmas,Free Gift,39,Fixed Pricing,0.0,Price-Sensitive,No
+Surveys,Christmas,None,6,Competitive Pricing,-0.05,Luxury Buyers,No
+API Integration,Black Friday,Free Gift,23,Competitive Pricing,-0.02,Value-Seekers,No
+Surveys,New Year,Free Gift,23,Dynamic Pricing,0.07,Value-Seekers,No
+API Integration,New Year,Cashback,8,Competitive Pricing,0.09,Luxury Buyers,No
+Surveys,Christmas,Discount,5,Fixed Pricing,-0.06,Brand-Loyal,No
+Database Dump,New Year,Discount,13,Dynamic Pricing,0.08,Value-Seekers,No
+Web Scraping,New Year,None,28,Fixed Pricing,0.07,Brand-Loyal,Yes
+Surveys,New Year,Discount,27,Dynamic Pricing,0.02,Brand-Loyal,No
+Web Scraping,Black Friday,Cashback,12,Dynamic Pricing,0.1,Luxury Buyers,No
+Surveys,Diwali,Bundle Deal,10,Competitive Pricing,-0.09,Luxury Buyers,No
+Database Dump,Diwali,Bundle Deal,14,Competitive Pricing,-0.05,Luxury Buyers,Yes
+API Integration,Black Friday,None,13,Competitive Pricing,0.05,Brand-Loyal,Yes
+Web Scraping,Diwali,Cashback,46,Fixed Pricing,-0.02,Value-Seekers,No
+API Integration,Christmas,Free Gift,12,Dynamic Pricing,-0.0,Value-Seekers,No
+Surveys,Black Friday,None,27,Dynamic Pricing,-0.07,Luxury Buyers,Yes
+API Integration,Black Friday,Cashback,42,Dynamic Pricing,0.06,Value-Seekers,No
+Web Scraping,New Year,Free Gift,29,Competitive Pricing,0.07,Brand-Loyal,Yes
+Web Scraping,New Year,Bundle Deal,45,Competitive Pricing,0.05,Value-Seekers,No
+Surveys,Black Friday,Bundle Deal,16,Dynamic Pricing,0.0,Value-Seekers,No
+Web Scraping,Christmas,Free Gift,46,Competitive Pricing,-0.04,Luxury Buyers,No
+Database Dump,Black Friday,Free Gift,38,Fixed Pricing,0.07,Price-Sensitive,No
+Web Scraping,New Year,Cashback,9,Competitive Pricing,-0.04,Price-Sensitive,No
+Surveys,Christmas,Bundle Deal,7,Dynamic Pricing,0.07,Brand-Loyal,Yes
+Web Scraping,None,Free Gift,7,Fixed Pricing,-0.02,Price-Sensitive,Yes
+Surveys,Christmas,Cashback,8,Competitive Pricing,-0.0,Value-Seekers,No
+Surveys,New Year,Free Gift,47,Fixed Pricing,-0.1,Price-Sensitive,Yes
+API Integration,Christmas,Cashback,6,Dynamic Pricing,0.02,Brand-Loyal,Yes
+Database Dump,None,Bundle Deal,39,Competitive Pricing,0.03,Luxury Buyers,No
+Database Dump,New Year,Cashback,22,Dynamic Pricing,0.01,Value-Seekers,No
+API Integration,Black Friday,Free Gift,34,Dynamic Pricing,0.0,Brand-Loyal,No
+API Integration,Black Friday,Discount,16,Dynamic Pricing,0.07,Price-Sensitive,No
+Surveys,Christmas,Free Gift,42,Competitive Pricing,-0.02,Brand-Loyal,Yes
+Web Scraping,Christmas,Cashback,46,Dynamic Pricing,0.06,Luxury Buyers,Yes
+Database Dump,New Year,Free Gift,10,Dynamic Pricing,0.07,Brand-Loyal,Yes
+Database Dump,Diwali,Discount,48,Fixed Pricing,0.1,Brand-Loyal,Yes
+Web Scraping,None,None,21,Dynamic Pricing,0.05,Luxury Buyers,No
+API Integration,Christmas,Discount,19,Dynamic Pricing,0.03,Value-Seekers,No
+Web Scraping,Black Friday,Discount,23,Dynamic Pricing,0.02,Brand-Loyal,Yes
+Surveys,Black Friday,None,5,Competitive Pricing,-0.01,Price-Sensitive,Yes
+API Integration,Christmas,Cashback,17,Competitive Pricing,-0.01,Price-Sensitive,No
+API Integration,Diwali,Free Gift,14,Fixed Pricing,-0.1,Luxury Buyers,Yes
+Database Dump,Black Friday,None,7,Fixed Pricing,-0.04,Value-Seekers,Yes
+Web Scraping,Diwali,Discount,31,Dynamic Pricing,0.02,Luxury Buyers,Yes
+Database Dump,New Year,Cashback,25,Fixed Pricing,0.06,Brand-Loyal,Yes
+API Integration,None,None,22,Dynamic Pricing,0.03,Value-Seekers,No
+Web Scraping,New Year,Free Gift,39,Fixed Pricing,-0.06,Value-Seekers,No
+Surveys,None,Cashback,13,Fixed Pricing,-0.03,Luxury Buyers,Yes
+API Integration,Diwali,Bundle Deal,42,Fixed Pricing,0.07,Value-Seekers,No
+Surveys,New Year,Free Gift,33,Competitive Pricing,-0.05,Brand-Loyal,Yes
+API Integration,Christmas,None,36,Fixed Pricing,-0.09,Value-Seekers,Yes
+Surveys,New Year,None,9,Competitive Pricing,-0.06,Value-Seekers,Yes
+API Integration,None,Discount,31,Dynamic Pricing,0.03,Price-Sensitive,Yes
+Database Dump,Black Friday,Free Gift,22,Competitive Pricing,-0.02,Luxury Buyers,Yes
+Surveys,Christmas,None,23,Dynamic Pricing,0.07,Luxury Buyers,No
+Surveys,New Year,Bundle Deal,28,Dynamic Pricing,0.08,Brand-Loyal,No
+API Integration,Christmas,Discount,8,Competitive Pricing,0.09,Luxury Buyers,Yes
+Database Dump,Christmas,Cashback,34,Fixed Pricing,-0.09,Brand-Loyal,Yes
+Database Dump,Christmas,Bundle Deal,39,Competitive Pricing,-0.06,Brand-Loyal,No
+Database Dump,Black Friday,Discount,6,Competitive Pricing,-0.09,Value-Seekers,Yes
+API Integration,Black Friday,Bundle Deal,18,Competitive Pricing,-0.01,Brand-Loyal,No
+Surveys,None,Bundle Deal,19,Competitive Pricing,-0.05,Luxury Buyers,No
+Web Scraping,New Year,Discount,17,Competitive Pricing,0.01,Luxury Buyers,No
+Surveys,New Year,None,20,Fixed Pricing,0.05,Value-Seekers,No
+API Integration,New Year,Cashback,38,Dynamic Pricing,0.08,Brand-Loyal,No
+Web Scraping,Black Friday,Cashback,19,Competitive Pricing,0.08,Luxury Buyers,No
+Surveys,Christmas,None,28,Fixed Pricing,-0.02,Brand-Loyal,No
+Surveys,None,Bundle Deal,14,Dynamic Pricing,-0.09,Value-Seekers,Yes
+Web Scraping,New Year,Cashback,37,Dynamic Pricing,-0.03,Price-Sensitive,No
+Database Dump,Christmas,Free Gift,16,Fixed Pricing,0.04,Value-Seekers,No
+API Integration,Black Friday,Discount,14,Competitive Pricing,0.08,Brand-Loyal,No
+API Integration,Diwali,Discount,19,Dynamic Pricing,0.01,Value-Seekers,Yes
+Surveys,Christmas,Free Gift,7,Dynamic Pricing,-0.08,Value-Seekers,Yes
+Surveys,None,Discount,49,Dynamic Pricing,-0.04,Value-Seekers,No
+Database Dump,Diwali,Discount,50,Dynamic Pricing,0.04,Brand-Loyal,No
+Database Dump,None,Bundle Deal,47,Fixed Pricing,-0.02,Brand-Loyal,Yes
+Web Scraping,Black Friday,None,14,Competitive Pricing,0.04,Value-Seekers,Yes
+Database Dump,Black Friday,Bundle Deal,38,Dynamic Pricing,-0.02,Brand-Loyal,No
+API Integration,Diwali,None,48,Competitive Pricing,-0.1,Luxury Buyers,No
+Surveys,Diwali,None,33,Competitive Pricing,0.07,Value-Seekers,No
+Web Scraping,Diwali,Bundle Deal,24,Fixed Pricing,0.02,Brand-Loyal,No
+Web Scraping,Diwali,Free Gift,23,Competitive Pricing,0.06,Value-Seekers,No
+API Integration,New Year,Free Gift,6,Dynamic Pricing,0.08,Price-Sensitive,No
+Database Dump,Christmas,Discount,37,Dynamic Pricing,-0.06,Luxury Buyers,Yes
+API Integration,Diwali,None,20,Competitive Pricing,-0.08,Luxury Buyers,Yes
+Database Dump,None,Free Gift,5,Fixed Pricing,0.05,Luxury Buyers,Yes
+API Integration,Christmas,Discount,22,Fixed Pricing,0.07,Value-Seekers,Yes
+Surveys,Diwali,Free Gift,39,Dynamic Pricing,-0.05,Price-Sensitive,Yes
+Surveys,New Year,Bundle Deal,34,Competitive Pricing,0.06,Luxury Buyers,Yes
+Web Scraping,None,Bundle Deal,40,Competitive Pricing,-0.02,Brand-Loyal,No
+API Integration,None,Bundle Deal,42,Fixed Pricing,0.04,Value-Seekers,No
+Database Dump,Christmas,None,6,Dynamic Pricing,0.09,Value-Seekers,Yes
+Database Dump,Black Friday,Cashback,8,Competitive Pricing,0.03,Brand-Loyal,Yes
+Database Dump,None,Bundle Deal,27,Dynamic Pricing,-0.07,Luxury Buyers,Yes
+Web Scraping,Christmas,Free Gift,37,Fixed Pricing,-0.1,Price-Sensitive,Yes
+Web Scraping,New Year,Discount,14,Competitive Pricing,0.09,Luxury Buyers,Yes
+API Integration,Christmas,None,21,Dynamic Pricing,-0.06,Luxury Buyers,No
+Surveys,Christmas,Discount,50,Fixed Pricing,0.07,Price-Sensitive,Yes
+Database Dump,Diwali,Cashback,47,Fixed Pricing,-0.07,Value-Seekers,Yes
+Web Scraping,Christmas,None,24,Fixed Pricing,0.02,Brand-Loyal,No
+Web Scraping,Diwali,None,38,Dynamic Pricing,0.08,Luxury Buyers,No
+API Integration,None,Cashback,7,Dynamic Pricing,-0.07,Value-Seekers,No
+Database Dump,None,Discount,31,Fixed Pricing,0.01,Value-Seekers,No
+Surveys,None,Bundle Deal,10,Fixed Pricing,-0.08,Luxury Buyers,Yes
+Surveys,Christmas,Discount,28,Competitive Pricing,-0.05,Value-Seekers,No
+Web Scraping,Diwali,Bundle Deal,44,Dynamic Pricing,0.09,Brand-Loyal,Yes
+API Integration,New Year,None,9,Dynamic Pricing,0.06,Brand-Loyal,Yes
+Database Dump,New Year,Cashback,17,Dynamic Pricing,0.05,Luxury Buyers,Yes
+Surveys,New Year,Bundle Deal,37,Fixed Pricing,-0.07,Brand-Loyal,Yes
+Database Dump,Diwali,Cashback,38,Fixed Pricing,0.05,Price-Sensitive,No
+Database Dump,Diwali,None,15,Fixed Pricing,0.04,Brand-Loyal,Yes
+Database Dump,New Year,Free Gift,28,Fixed Pricing,0.05,Value-Seekers,No
+Database Dump,New Year,Free Gift,13,Competitive Pricing,-0.06,Value-Seekers,No
+Database Dump,Christmas,Free Gift,16,Competitive Pricing,0.08,Price-Sensitive,No
+Surveys,Black Friday,Bundle Deal,20,Competitive Pricing,0.04,Value-Seekers,Yes
+Web Scraping,New Year,None,35,Fixed Pricing,0.03,Price-Sensitive,Yes
+API Integration,Christmas,Cashback,44,Fixed Pricing,-0.1,Price-Sensitive,No
+API Integration,Diwali,None,6,Dynamic Pricing,0.05,Brand-Loyal,Yes
+Database Dump,Christmas,None,15,Competitive Pricing,0.01,Brand-Loyal,Yes
+Web Scraping,None,Discount,8,Dynamic Pricing,0.08,Brand-Loyal,No
+Surveys,Diwali,Bundle Deal,49,Dynamic Pricing,0.1,Price-Sensitive,Yes
+Database Dump,New Year,Discount,6,Competitive Pricing,-0.0,Luxury Buyers,No
+API Integration,New Year,Bundle Deal,48,Fixed Pricing,0.03,Price-Sensitive,No
+Database Dump,Diwali,Discount,7,Competitive Pricing,0.02,Price-Sensitive,No
+API Integration,None,Cashback,40,Fixed Pricing,-0.01,Brand-Loyal,Yes
+Surveys,Black Friday,Cashback,13,Fixed Pricing,0.09,Luxury Buyers,Yes
+Database Dump,New Year,Bundle Deal,29,Fixed Pricing,0.05,Brand-Loyal,Yes
+Database Dump,Black Friday,Free Gift,19,Fixed Pricing,-0.02,Price-Sensitive,Yes
+Database Dump,New Year,Cashback,25,Fixed Pricing,0.1,Price-Sensitive,Yes
+API Integration,None,Bundle Deal,28,Dynamic Pricing,0.08,Value-Seekers,No
+Web Scraping,New Year,Bundle Deal,20,Competitive Pricing,-0.03,Luxury Buyers,Yes
+Surveys,Diwali,Bundle Deal,41,Dynamic Pricing,-0.07,Value-Seekers,No
+Web Scraping,New Year,Bundle Deal,47,Fixed Pricing,-0.03,Luxury Buyers,No
+API Integration,None,Bundle Deal,33,Fixed Pricing,0.03,Price-Sensitive,Yes
+Surveys,New Year,Cashback,34,Dynamic Pricing,0.06,Price-Sensitive,No
+Surveys,Diwali,Discount,21,Fixed Pricing,-0.06,Price-Sensitive,Yes
+Web Scraping,Christmas,Bundle Deal,11,Competitive Pricing,0.03,Brand-Loyal,Yes
+Surveys,Black Friday,Free Gift,28,Fixed Pricing,-0.1,Price-Sensitive,No
+API Integration,None,Free Gift,48,Fixed Pricing,0.09,Luxury Buyers,No
+Database Dump,Diwali,None,45,Dynamic Pricing,0.08,Brand-Loyal,No
+Database Dump,Christmas,Discount,22,Fixed Pricing,0.07,Brand-Loyal,Yes
+Surveys,None,Bundle Deal,31,Competitive Pricing,0.07,Brand-Loyal,No
+Surveys,Black Friday,Free Gift,23,Dynamic Pricing,-0.0,Luxury Buyers,Yes
+Database Dump,Black Friday,Discount,49,Dynamic Pricing,-0.02,Value-Seekers,Yes
+Surveys,Black Friday,Discount,33,Fixed Pricing,0.09,Brand-Loyal,Yes
+Surveys,Christmas,Discount,22,Dynamic Pricing,0.06,Brand-Loyal,Yes
+Database Dump,Christmas,None,32,Competitive Pricing,-0.03,Price-Sensitive,No
+Database Dump,New Year,Cashback,7,Fixed Pricing,0.03,Luxury Buyers,No
+Database Dump,Black Friday,Cashback,23,Fixed Pricing,-0.06,Luxury Buyers,No
+Web Scraping,None,Free Gift,16,Competitive Pricing,-0.05,Value-Seekers,Yes
+Surveys,Black Friday,Discount,26,Dynamic Pricing,-0.04,Price-Sensitive,No
+Database Dump,Christmas,Free Gift,41,Dynamic Pricing,-0.07,Luxury Buyers,No
+Surveys,None,Discount,43,Competitive Pricing,-0.04,Luxury Buyers,No
+Database Dump,Black Friday,Bundle Deal,11,Competitive Pricing,0.01,Price-Sensitive,No
+Database Dump,Diwali,Free Gift,29,Dynamic Pricing,0.07,Luxury Buyers,No
+Surveys,None,Bundle Deal,8,Competitive Pricing,-0.08,Price-Sensitive,No
+Surveys,Diwali,None,39,Dynamic Pricing,-0.09,Value-Seekers,Yes
+API Integration,New Year,None,45,Fixed Pricing,-0.05,Luxury Buyers,No
+Database Dump,Diwali,Bundle Deal,44,Fixed Pricing,-0.02,Price-Sensitive,No
+Surveys,None,Free Gift,25,Competitive Pricing,0.04,Value-Seekers,No
+Database Dump,Christmas,Free Gift,5,Fixed Pricing,0.09,Value-Seekers,No
+Database Dump,Black Friday,Bundle Deal,27,Fixed Pricing,-0.0,Value-Seekers,Yes
+API Integration,Diwali,Cashback,14,Dynamic Pricing,-0.04,Price-Sensitive,Yes
+Web Scraping,New Year,Free Gift,27,Dynamic Pricing,0.02,Luxury Buyers,No
+API Integration,Christmas,Free Gift,48,Competitive Pricing,0.03,Brand-Loyal,Yes
+API Integration,Christmas,Cashback,29,Competitive Pricing,0.06,Brand-Loyal,No
+Surveys,Black Friday,Discount,5,Fixed Pricing,-0.04,Luxury Buyers,No
+Database Dump,Christmas,Free Gift,18,Competitive Pricing,-0.02,Price-Sensitive,Yes
+Database Dump,Diwali,Cashback,18,Fixed Pricing,-0.04,Value-Seekers,No
+Database Dump,Christmas,None,50,Competitive Pricing,0.08,Brand-Loyal,No
+Database Dump,Black Friday,None,8,Competitive Pricing,0.06,Brand-Loyal,No
+Database Dump,Christmas,None,50,Competitive Pricing,-0.01,Brand-Loyal,Yes
+Database Dump,Black Friday,Discount,46,Competitive Pricing,-0.05,Luxury Buyers,No
+Surveys,Diwali,Bundle Deal,21,Competitive Pricing,0.05,Price-Sensitive,Yes
+Database Dump,Diwali,Free Gift,48,Fixed Pricing,0.03,Brand-Loyal,Yes
+Web Scraping,Diwali,Bundle Deal,45,Fixed Pricing,0.06,Value-Seekers,Yes
+API Integration,Christmas,Free Gift,19,Competitive Pricing,-0.02,Price-Sensitive,No
+Surveys,New Year,Cashback,49,Dynamic Pricing,0.1,Price-Sensitive,No
+Database Dump,Christmas,Bundle Deal,20,Competitive Pricing,-0.01,Brand-Loyal,Yes
+Surveys,Diwali,Bundle Deal,46,Dynamic Pricing,0.03,Price-Sensitive,No
+API Integration,Christmas,Bundle Deal,7,Dynamic Pricing,-0.0,Price-Sensitive,Yes
+API Integration,Diwali,Free Gift,43,Fixed Pricing,0.03,Brand-Loyal,Yes
+Surveys,New Year,Free Gift,46,Fixed Pricing,0.09,Luxury Buyers,No
+Web Scraping,Christmas,Discount,28,Competitive Pricing,-0.03,Brand-Loyal,Yes
+Web Scraping,Diwali,Cashback,26,Fixed Pricing,-0.06,Luxury Buyers,No
+Web Scraping,Diwali,Cashback,30,Fixed Pricing,0.09,Luxury Buyers,Yes
+API Integration,Black Friday,Discount,20,Competitive Pricing,0.09,Luxury Buyers,Yes
+Database Dump,Diwali,None,23,Dynamic Pricing,0.03,Luxury Buyers,No
+API Integration,None,None,50,Fixed Pricing,0.04,Value-Seekers,Yes
+Web Scraping,None,Bundle Deal,22,Fixed Pricing,-0.06,Price-Sensitive,Yes
+Database Dump,Diwali,Cashback,45,Dynamic Pricing,0.06,Price-Sensitive,No
+API Integration,Black Friday,None,39,Competitive Pricing,-0.01,Brand-Loyal,No
+Database Dump,Diwali,Discount,40,Fixed Pricing,0.03,Value-Seekers,No
+Surveys,Christmas,Bundle Deal,49,Fixed Pricing,-0.04,Luxury Buyers,Yes
+API Integration,Diwali,None,8,Dynamic Pricing,0.02,Brand-Loyal,Yes
+API Integration,New Year,Discount,39,Competitive Pricing,-0.01,Price-Sensitive,No
+Surveys,New Year,Bundle Deal,10,Fixed Pricing,-0.07,Value-Seekers,No
+Surveys,Black Friday,Cashback,23,Fixed Pricing,-0.06,Price-Sensitive,No
+Database Dump,Black Friday,Free Gift,43,Competitive Pricing,-0.09,Brand-Loyal,Yes
+Surveys,New Year,Bundle Deal,39,Fixed Pricing,0.02,Price-Sensitive,No
+API Integration,None,Bundle Deal,16,Dynamic Pricing,-0.08,Price-Sensitive,No
+Web Scraping,None,Discount,48,Competitive Pricing,-0.01,Price-Sensitive,Yes
+Surveys,Diwali,Free Gift,6,Fixed Pricing,0.02,Brand-Loyal,Yes
+Database Dump,None,Cashback,42,Dynamic Pricing,0.05,Value-Seekers,No
+Surveys,Christmas,Discount,21,Dynamic Pricing,0.09,Brand-Loyal,No
+API Integration,Diwali,Discount,17,Competitive Pricing,0.1,Value-Seekers,Yes
+Database Dump,Christmas,Cashback,21,Fixed Pricing,-0.04,Brand-Loyal,Yes
+Web Scraping,Christmas,Free Gift,34,Competitive Pricing,-0.05,Value-Seekers,Yes
+Web Scraping,None,Free Gift,46,Fixed Pricing,-0.04,Luxury Buyers,No
+Database Dump,Black Friday,Bundle Deal,5,Fixed Pricing,-0.08,Brand-Loyal,Yes
+Database Dump,None,Discount,14,Dynamic Pricing,0.05,Value-Seekers,Yes
+API Integration,Christmas,Free Gift,12,Dynamic Pricing,-0.03,Luxury Buyers,No
+Database Dump,None,Bundle Deal,24,Competitive Pricing,-0.08,Price-Sensitive,Yes
+API Integration,Black Friday,Cashback,42,Dynamic Pricing,-0.02,Value-Seekers,Yes
+Surveys,Diwali,None,23,Fixed Pricing,0.05,Value-Seekers,No
+Database Dump,None,Free Gift,20,Dynamic Pricing,-0.1,Value-Seekers,No
+Web Scraping,New Year,Bundle Deal,9,Fixed Pricing,0.05,Brand-Loyal,No
+Web Scraping,Black Friday,Bundle Deal,27,Dynamic Pricing,-0.08,Brand-Loyal,No
+Web Scraping,New Year,Bundle Deal,32,Dynamic Pricing,-0.04,Brand-Loyal,Yes
+Web Scraping,Black Friday,Discount,40,Competitive Pricing,-0.06,Value-Seekers,Yes
+Web Scraping,Christmas,Free Gift,32,Dynamic Pricing,0.08,Brand-Loyal,Yes
+Web Scraping,New Year,Free Gift,37,Dynamic Pricing,-0.09,Luxury Buyers,Yes
+Database Dump,New Year,None,48,Fixed Pricing,0.04,Price-Sensitive,Yes
+Database Dump,Black Friday,Cashback,16,Competitive Pricing,-0.06,Brand-Loyal,No
+Database Dump,New Year,Free Gift,31,Fixed Pricing,-0.02,Value-Seekers,No
+Database Dump,Diwali,Free Gift,40,Competitive Pricing,0.07,Price-Sensitive,No
+Web Scraping,Black Friday,Cashback,6,Fixed Pricing,-0.09,Price-Sensitive,Yes
+Surveys,Black Friday,None,10,Dynamic Pricing,-0.01,Value-Seekers,Yes
+Web Scraping,Christmas,None,22,Fixed Pricing,0.05,Luxury Buyers,Yes
+Database Dump,Diwali,Discount,26,Dynamic Pricing,-0.06,Price-Sensitive,Yes
+Web Scraping,Christmas,Cashback,50,Fixed Pricing,0.09,Brand-Loyal,No
+API Integration,Diwali,Cashback,31,Dynamic Pricing,-0.01,Value-Seekers,Yes
+Web Scraping,Christmas,None,23,Dynamic Pricing,-0.08,Value-Seekers,Yes
+Web Scraping,Christmas,Discount,35,Dynamic Pricing,-0.1,Value-Seekers,Yes
+API Integration,Christmas,None,19,Fixed Pricing,-0.09,Value-Seekers,No
+API Integration,Christmas,Cashback,34,Dynamic Pricing,0.04,Price-Sensitive,Yes
+Database Dump,New Year,Discount,27,Competitive Pricing,-0.0,Price-Sensitive,No
+Surveys,Black Friday,None,6,Competitive Pricing,-0.08,Brand-Loyal,No
+Surveys,New Year,Discount,19,Competitive Pricing,-0.09,Price-Sensitive,Yes
+Database Dump,Black Friday,Cashback,34,Fixed Pricing,0.07,Brand-Loyal,Yes
+Surveys,Black Friday,None,32,Dynamic Pricing,0.07,Value-Seekers,Yes
+API Integration,New Year,Free Gift,26,Fixed Pricing,-0.01,Value-Seekers,Yes
+Web Scraping,Diwali,None,8,Fixed Pricing,-0.1,Price-Sensitive,Yes
+API Integration,None,Bundle Deal,21,Dynamic Pricing,0.08,Luxury Buyers,Yes
+API Integration,Black Friday,Discount,34,Fixed Pricing,0.04,Price-Sensitive,No
+API Integration,New Year,Free Gift,15,Dynamic Pricing,-0.09,Luxury Buyers,No
+Surveys,Black Friday,Cashback,34,Dynamic Pricing,0.07,Value-Seekers,Yes
+Web Scraping,Christmas,Bundle Deal,15,Fixed Pricing,0.01,Luxury Buyers,Yes
+Database Dump,Diwali,Bundle Deal,16,Fixed Pricing,0.0,Luxury Buyers,No
+API Integration,Christmas,Free Gift,20,Dynamic Pricing,-0.0,Value-Seekers,Yes
+Surveys,None,None,48,Dynamic Pricing,-0.0,Price-Sensitive,Yes
+Web Scraping,None,Cashback,43,Competitive Pricing,0.07,Value-Seekers,No
+Web Scraping,Diwali,Bundle Deal,22,Competitive Pricing,-0.08,Value-Seekers,No
+Web Scraping,Diwali,Bundle Deal,5,Fixed Pricing,0.05,Luxury Buyers,No
+API Integration,New Year,Bundle Deal,42,Dynamic Pricing,-0.04,Brand-Loyal,No
+Web Scraping,Black Friday,Free Gift,18,Fixed Pricing,0.02,Luxury Buyers,No
+Database Dump,None,Bundle Deal,28,Dynamic Pricing,-0.0,Value-Seekers,No
+Web Scraping,Diwali,Cashback,31,Fixed Pricing,0.07,Value-Seekers,Yes
+Database Dump,Black Friday,None,10,Fixed Pricing,-0.1,Brand-Loyal,Yes
+Database Dump,None,None,48,Dynamic Pricing,-0.04,Luxury Buyers,No
+Surveys,Christmas,Discount,6,Dynamic Pricing,0.02,Price-Sensitive,Yes
+Database Dump,Christmas,None,46,Competitive Pricing,0.02,Brand-Loyal,Yes
+Web Scraping,Diwali,None,45,Dynamic Pricing,-0.02,Value-Seekers,Yes
+Database Dump,New Year,Discount,14,Competitive Pricing,-0.0,Brand-Loyal,Yes
+Surveys,Black Friday,Bundle Deal,36,Dynamic Pricing,-0.06,Price-Sensitive,Yes
+Surveys,None,Discount,11,Fixed Pricing,-0.03,Brand-Loyal,No
+Surveys,Black Friday,Cashback,27,Competitive Pricing,-0.08,Luxury Buyers,No
+Database Dump,New Year,Discount,21,Dynamic Pricing,0.09,Brand-Loyal,Yes
+API Integration,Black Friday,Free Gift,42,Dynamic Pricing,-0.08,Luxury Buyers,Yes
+Web Scraping,Christmas,Discount,19,Dynamic Pricing,-0.1,Value-Seekers,Yes
+Surveys,None,Discount,15,Dynamic Pricing,-0.07,Luxury Buyers,Yes
+API Integration,None,Cashback,17,Dynamic Pricing,-0.05,Luxury Buyers,Yes
+Surveys,Black Friday,Bundle Deal,39,Fixed Pricing,0.06,Luxury Buyers,Yes
+API Integration,Black Friday,None,29,Competitive Pricing,0.04,Brand-Loyal,Yes
+Web Scraping,New Year,Discount,19,Competitive Pricing,-0.04,Price-Sensitive,No
+Web Scraping,Black Friday,Free Gift,46,Dynamic Pricing,0.04,Price-Sensitive,No
+Surveys,Christmas,Bundle Deal,9,Fixed Pricing,-0.07,Luxury Buyers,Yes
+API Integration,Diwali,Free Gift,50,Fixed Pricing,-0.05,Price-Sensitive,No
+API Integration,Diwali,Bundle Deal,10,Competitive Pricing,-0.03,Brand-Loyal,Yes
+API Integration,Black Friday,None,40,Competitive Pricing,-0.06,Value-Seekers,Yes
+Surveys,None,Bundle Deal,29,Dynamic Pricing,0.07,Luxury Buyers,No
+API Integration,New Year,None,35,Fixed Pricing,-0.03,Brand-Loyal,No
+API Integration,Diwali,Bundle Deal,9,Dynamic Pricing,-0.06,Luxury Buyers,Yes
+Web Scraping,Christmas,Bundle Deal,23,Dynamic Pricing,-0.07,Brand-Loyal,No
+Surveys,Black Friday,Free Gift,44,Dynamic Pricing,-0.0,Luxury Buyers,No
+Surveys,Black Friday,Cashback,38,Fixed Pricing,0.08,Price-Sensitive,Yes
+Database Dump,New Year,Cashback,42,Fixed Pricing,0.04,Price-Sensitive,No
+Database Dump,New Year,Free Gift,40,Fixed Pricing,0.04,Value-Seekers,Yes
+API Integration,Black Friday,Free Gift,6,Fixed Pricing,-0.06,Luxury Buyers,No
+Database Dump,Diwali,Cashback,19,Competitive Pricing,0.02,Value-Seekers,No
+API Integration,Diwali,Cashback,20,Fixed Pricing,-0.03,Price-Sensitive,Yes
+API Integration,Black Friday,Cashback,30,Dynamic Pricing,-0.02,Value-Seekers,No
+Web Scraping,Christmas,Bundle Deal,27,Fixed Pricing,0.04,Brand-Loyal,No
+API Integration,New Year,None,24,Dynamic Pricing,-0.09,Value-Seekers,No
+Web Scraping,New Year,Cashback,35,Competitive Pricing,0.07,Luxury Buyers,No
+Web Scraping,Diwali,Discount,36,Dynamic Pricing,-0.1,Price-Sensitive,No
+Surveys,New Year,Free Gift,29,Dynamic Pricing,-0.08,Value-Seekers,No
+Surveys,None,Cashback,20,Fixed Pricing,-0.02,Brand-Loyal,Yes
+API Integration,Diwali,Cashback,46,Fixed Pricing,-0.02,Brand-Loyal,No
+Surveys,Christmas,Cashback,5,Fixed Pricing,-0.01,Value-Seekers,Yes
+Database Dump,New Year,Cashback,10,Competitive Pricing,-0.03,Value-Seekers,No
+API Integration,New Year,None,32,Fixed Pricing,0.07,Brand-Loyal,No
+API Integration,Black Friday,None,46,Fixed Pricing,0.05,Value-Seekers,Yes
+Web Scraping,New Year,Discount,29,Dynamic Pricing,-0.09,Luxury Buyers,Yes
+API Integration,Diwali,None,29,Competitive Pricing,-0.03,Value-Seekers,Yes
+Database Dump,Black Friday,None,9,Fixed Pricing,-0.0,Brand-Loyal,No
+Web Scraping,None,None,7,Dynamic Pricing,0.01,Value-Seekers,Yes
+API Integration,Christmas,None,44,Dynamic Pricing,0.09,Value-Seekers,No
+Surveys,Black Friday,None,26,Competitive Pricing,0.08,Brand-Loyal,No
+Surveys,Christmas,Cashback,49,Dynamic Pricing,-0.04,Price-Sensitive,No
+Web Scraping,Black Friday,Bundle Deal,17,Competitive Pricing,-0.04,Value-Seekers,Yes
+Surveys,Christmas,Free Gift,11,Competitive Pricing,-0.08,Brand-Loyal,No
+Database Dump,New Year,Bundle Deal,5,Fixed Pricing,0.05,Value-Seekers,No
+Surveys,Diwali,Free Gift,49,Fixed Pricing,0.04,Price-Sensitive,No
+API Integration,Diwali,Cashback,9,Fixed Pricing,0.06,Value-Seekers,No
+API Integration,Christmas,Bundle Deal,29,Competitive Pricing,0.09,Brand-Loyal,No
+Web Scraping,Christmas,None,19,Dynamic Pricing,0.06,Luxury Buyers,Yes
+API Integration,Diwali,Free Gift,20,Dynamic Pricing,-0.02,Brand-Loyal,Yes
+Surveys,None,Bundle Deal,11,Fixed Pricing,0.04,Price-Sensitive,No
+Surveys,Diwali,Free Gift,8,Fixed Pricing,0.08,Brand-Loyal,Yes
+Database Dump,Black Friday,Bundle Deal,40,Fixed Pricing,-0.06,Luxury Buyers,No
+API Integration,New Year,Bundle Deal,18,Competitive Pricing,0.03,Price-Sensitive,Yes
+API Integration,Diwali,Discount,9,Fixed Pricing,0.07,Value-Seekers,No
+Web Scraping,Christmas,Free Gift,39,Dynamic Pricing,-0.05,Brand-Loyal,Yes
+Web Scraping,New Year,Free Gift,44,Fixed Pricing,0.03,Price-Sensitive,No
+Database Dump,New Year,Free Gift,36,Competitive Pricing,-0.09,Brand-Loyal,Yes
+Web Scraping,Black Friday,Discount,49,Fixed Pricing,-0.09,Luxury Buyers,Yes
+Surveys,Christmas,Cashback,16,Competitive Pricing,-0.01,Value-Seekers,Yes
+API Integration,Christmas,Bundle Deal,9,Competitive Pricing,-0.02,Brand-Loyal,Yes
+Database Dump,New Year,Cashback,15,Competitive Pricing,0.08,Luxury Buyers,No
+API Integration,None,Discount,37,Fixed Pricing,0.01,Luxury Buyers,No
+Surveys,None,None,32,Fixed Pricing,-0.08,Brand-Loyal,No
+Web Scraping,Diwali,Cashback,10,Dynamic Pricing,0.04,Price-Sensitive,No
+Web Scraping,New Year,Cashback,34,Fixed Pricing,0.03,Luxury Buyers,No
+API Integration,New Year,Cashback,28,Dynamic Pricing,0.07,Value-Seekers,No
+Web Scraping,Black Friday,Cashback,29,Fixed Pricing,0.08,Value-Seekers,Yes
+Database Dump,None,Cashback,47,Competitive Pricing,0.06,Luxury Buyers,Yes
+Web Scraping,Christmas,Cashback,18,Fixed Pricing,0.02,Price-Sensitive,No
+Database Dump,Diwali,Bundle Deal,27,Fixed Pricing,-0.01,Brand-Loyal,No
+API Integration,Christmas,Cashback,16,Dynamic Pricing,0.09,Brand-Loyal,Yes
+API Integration,Diwali,Cashback,33,Dynamic Pricing,0.01,Brand-Loyal,No
+Web Scraping,None,Discount,49,Dynamic Pricing,0.01,Brand-Loyal,Yes
+Web Scraping,Diwali,Cashback,7,Dynamic Pricing,-0.05,Price-Sensitive,Yes
+Surveys,Christmas,None,36,Competitive Pricing,0.05,Price-Sensitive,Yes
+Database Dump,Diwali,Bundle Deal,14,Competitive Pricing,0.08,Brand-Loyal,No
+API Integration,New Year,Free Gift,9,Fixed Pricing,-0.04,Price-Sensitive,No
+Web Scraping,None,Cashback,5,Fixed Pricing,-0.07,Brand-Loyal,No
+Database Dump,Diwali,Cashback,8,Dynamic Pricing,-0.01,Brand-Loyal,Yes
+Database Dump,None,Free Gift,19,Dynamic Pricing,0.05,Price-Sensitive,No
+Web Scraping,Black Friday,Bundle Deal,18,Fixed Pricing,0.04,Price-Sensitive,Yes
+Database Dump,Christmas,Cashback,26,Competitive Pricing,0.1,Value-Seekers,Yes
+Web Scraping,Christmas,Discount,33,Dynamic Pricing,0.02,Price-Sensitive,No
+Database Dump,Diwali,Free Gift,39,Dynamic Pricing,-0.05,Brand-Loyal,No
+Database Dump,None,Bundle Deal,28,Fixed Pricing,-0.04,Value-Seekers,No
+Surveys,New Year,Free Gift,11,Fixed Pricing,0.04,Luxury Buyers,No
+API Integration,Diwali,Discount,15,Fixed Pricing,-0.09,Brand-Loyal,No
+Web Scraping,Diwali,Discount,6,Competitive Pricing,0.09,Brand-Loyal,No
+Surveys,None,Bundle Deal,18,Dynamic Pricing,-0.01,Price-Sensitive,No
+API Integration,New Year,None,47,Competitive Pricing,0.1,Price-Sensitive,Yes
+Database Dump,Black Friday,Bundle Deal,33,Dynamic Pricing,0.03,Brand-Loyal,Yes
+API Integration,None,Cashback,22,Dynamic Pricing,-0.05,Value-Seekers,Yes
+Database Dump,New Year,Cashback,21,Dynamic Pricing,-0.01,Value-Seekers,No
+Database Dump,Diwali,None,27,Dynamic Pricing,0.07,Price-Sensitive,No
+Surveys,New Year,None,14,Dynamic Pricing,0.1,Brand-Loyal,Yes
+API Integration,Christmas,Bundle Deal,44,Dynamic Pricing,-0.06,Value-Seekers,No
+Surveys,Diwali,None,26,Competitive Pricing,0.02,Brand-Loyal,No
+Web Scraping,New Year,None,44,Fixed Pricing,0.07,Value-Seekers,Yes
+Database Dump,Black Friday,Free Gift,38,Dynamic Pricing,0.1,Luxury Buyers,Yes
+API Integration,None,Free Gift,20,Competitive Pricing,0.04,Price-Sensitive,No
+Surveys,Black Friday,Free Gift,48,Dynamic Pricing,0.09,Price-Sensitive,Yes
+Web Scraping,Diwali,Cashback,43,Fixed Pricing,0.09,Luxury Buyers,No
+Surveys,None,Free Gift,45,Competitive Pricing,0.01,Price-Sensitive,No
+API Integration,Black Friday,Cashback,28,Competitive Pricing,-0.1,Brand-Loyal,Yes
+Database Dump,Black Friday,Bundle Deal,48,Competitive Pricing,0.06,Price-Sensitive,No
+API Integration,Diwali,Free Gift,22,Competitive Pricing,-0.03,Value-Seekers,Yes
+Database Dump,None,Cashback,20,Dynamic Pricing,-0.1,Price-Sensitive,No
+Database Dump,Black Friday,Discount,25,Competitive Pricing,0.06,Luxury Buyers,No
+Web Scraping,Christmas,Discount,40,Competitive Pricing,-0.06,Price-Sensitive,No
+Web Scraping,Christmas,Discount,6,Fixed Pricing,-0.03,Price-Sensitive,Yes
+API Integration,Christmas,Cashback,14,Fixed Pricing,0.08,Brand-Loyal,Yes
+API Integration,New Year,Bundle Deal,11,Fixed Pricing,-0.1,Value-Seekers,Yes
+Web Scraping,Diwali,None,8,Fixed Pricing,0.05,Value-Seekers,Yes
+Database Dump,New Year,Discount,13,Competitive Pricing,0.03,Price-Sensitive,No
+API Integration,None,Bundle Deal,24,Competitive Pricing,-0.07,Value-Seekers,No
+API Integration,None,None,44,Competitive Pricing,0.05,Luxury Buyers,No
+API Integration,Black Friday,None,9,Dynamic Pricing,-0.03,Value-Seekers,No
+Database Dump,None,Cashback,25,Competitive Pricing,0.07,Brand-Loyal,No
+Surveys,None,None,26,Competitive Pricing,0.07,Brand-Loyal,No
+Web Scraping,Black Friday,None,37,Dynamic Pricing,0.0,Price-Sensitive,No
+Web Scraping,None,None,25,Fixed Pricing,-0.04,Value-Seekers,Yes
+Database Dump,Christmas,Cashback,11,Fixed Pricing,0.02,Value-Seekers,Yes
+Surveys,Christmas,None,16,Dynamic Pricing,-0.0,Luxury Buyers,Yes
+API Integration,Christmas,Cashback,43,Fixed Pricing,-0.01,Luxury Buyers,No
+Web Scraping,None,Discount,44,Competitive Pricing,0.09,Value-Seekers,Yes
+Surveys,Diwali,Discount,28,Competitive Pricing,-0.1,Luxury Buyers,Yes
+Database Dump,Black Friday,Free Gift,45,Dynamic Pricing,-0.02,Luxury Buyers,No
+Database Dump,Christmas,Cashback,16,Fixed Pricing,-0.04,Price-Sensitive,Yes
+Web Scraping,New Year,Cashback,10,Dynamic Pricing,0.06,Luxury Buyers,No
+Surveys,Christmas,Discount,42,Competitive Pricing,0.06,Price-Sensitive,No
+Surveys,Christmas,Cashback,14,Dynamic Pricing,-0.04,Brand-Loyal,No
+Database Dump,Christmas,Free Gift,37,Dynamic Pricing,-0.04,Value-Seekers,Yes
+API Integration,Black Friday,Free Gift,17,Fixed Pricing,0.05,Luxury Buyers,No
+Web Scraping,Christmas,None,7,Dynamic Pricing,0.06,Brand-Loyal,Yes
+Surveys,New Year,None,29,Dynamic Pricing,0.05,Brand-Loyal,Yes
+Web Scraping,None,Discount,11,Fixed Pricing,-0.02,Price-Sensitive,No
+Web Scraping,Black Friday,Cashback,12,Dynamic Pricing,0.03,Luxury Buyers,No
+Surveys,None,Cashback,43,Dynamic Pricing,-0.1,Luxury Buyers,No
+Database Dump,None,Cashback,44,Dynamic Pricing,-0.09,Brand-Loyal,Yes
+Database Dump,None,Free Gift,10,Dynamic Pricing,-0.05,Brand-Loyal,No
+API Integration,Black Friday,Cashback,35,Dynamic Pricing,0.1,Luxury Buyers,Yes
+Surveys,Diwali,Free Gift,29,Competitive Pricing,0.06,Price-Sensitive,Yes
+API Integration,Black Friday,Cashback,28,Fixed Pricing,0.0,Value-Seekers,No
+Surveys,Black Friday,Free Gift,50,Dynamic Pricing,-0.03,Brand-Loyal,No
+Surveys,Diwali,Cashback,44,Fixed Pricing,0.01,Brand-Loyal,No
+Web Scraping,None,Cashback,10,Competitive Pricing,0.05,Brand-Loyal,No
+API Integration,None,Cashback,27,Dynamic Pricing,0.01,Price-Sensitive,No
+Surveys,Black Friday,Discount,49,Dynamic Pricing,0.06,Luxury Buyers,Yes
+Database Dump,Christmas,None,35,Fixed Pricing,0.09,Brand-Loyal,Yes
+Database Dump,New Year,Free Gift,40,Fixed Pricing,-0.08,Price-Sensitive,Yes
+Database Dump,New Year,None,48,Fixed Pricing,0.06,Brand-Loyal,No
+API Integration,Christmas,Free Gift,16,Dynamic Pricing,-0.06,Luxury Buyers,No
+Web Scraping,Christmas,Cashback,19,Competitive Pricing,0.09,Brand-Loyal,Yes
+Web Scraping,New Year,Free Gift,18,Fixed Pricing,-0.0,Price-Sensitive,No
+Surveys,New Year,Bundle Deal,20,Fixed Pricing,-0.01,Price-Sensitive,No
+Database Dump,None,Bundle Deal,23,Fixed Pricing,-0.07,Value-Seekers,Yes
+Surveys,New Year,Bundle Deal,7,Dynamic Pricing,0.07,Price-Sensitive,No
+Web Scraping,Christmas,Cashback,30,Dynamic Pricing,0.02,Price-Sensitive,Yes
+API Integration,None,Bundle Deal,32,Competitive Pricing,-0.03,Price-Sensitive,No
+Database Dump,New Year,Cashback,39,Competitive Pricing,0.03,Brand-Loyal,Yes
+Database Dump,New Year,Discount,33,Dynamic Pricing,-0.07,Brand-Loyal,No
+API Integration,None,Bundle Deal,29,Competitive Pricing,0.02,Luxury Buyers,Yes
+Web Scraping,None,Discount,35,Dynamic Pricing,-0.06,Luxury Buyers,Yes
+Web Scraping,None,Free Gift,17,Dynamic Pricing,0.03,Luxury Buyers,Yes
+Database Dump,None,Bundle Deal,31,Dynamic Pricing,-0.08,Luxury Buyers,Yes
+Database Dump,None,Free Gift,42,Competitive Pricing,0.07,Value-Seekers,No
+Web Scraping,Christmas,None,15,Dynamic Pricing,0.03,Brand-Loyal,No
+API Integration,Christmas,Free Gift,22,Fixed Pricing,-0.0,Value-Seekers,Yes
+Web Scraping,None,Bundle Deal,31,Competitive Pricing,-0.05,Luxury Buyers,Yes
+Web Scraping,Diwali,Discount,45,Fixed Pricing,-0.02,Price-Sensitive,Yes
+API Integration,Black Friday,Cashback,50,Competitive Pricing,0.01,Luxury Buyers,No
+API Integration,None,Discount,34,Dynamic Pricing,0.03,Value-Seekers,No
+Database Dump,Diwali,Bundle Deal,17,Competitive Pricing,0.01,Brand-Loyal,No
+Database Dump,Christmas,Discount,11,Fixed Pricing,0.02,Brand-Loyal,No
+Web Scraping,Black Friday,Discount,26,Fixed Pricing,-0.1,Luxury Buyers,Yes
+Database Dump,Black Friday,Discount,47,Fixed Pricing,0.02,Brand-Loyal,Yes
+Surveys,None,Free Gift,11,Fixed Pricing,-0.06,Luxury Buyers,Yes
+API Integration,None,Bundle Deal,6,Competitive Pricing,0.08,Brand-Loyal,Yes
+Surveys,Black Friday,Discount,7,Fixed Pricing,0.05,Price-Sensitive,No
+Surveys,Christmas,None,36,Competitive Pricing,-0.04,Brand-Loyal,No
+Web Scraping,None,None,14,Fixed Pricing,-0.07,Value-Seekers,No
+API Integration,Christmas,None,30,Fixed Pricing,-0.05,Price-Sensitive,No
+Database Dump,Black Friday,Cashback,45,Fixed Pricing,0.1,Price-Sensitive,Yes
+Surveys,Christmas,Discount,34,Dynamic Pricing,-0.02,Luxury Buyers,Yes
+API Integration,New Year,Cashback,44,Dynamic Pricing,-0.0,Brand-Loyal,Yes
+Web Scraping,Christmas,Bundle Deal,48,Competitive Pricing,-0.0,Price-Sensitive,No
+Web Scraping,None,Discount,28,Competitive Pricing,-0.03,Value-Seekers,No
+Surveys,Black Friday,Bundle Deal,45,Dynamic Pricing,0.04,Value-Seekers,No
+Database Dump,Diwali,Cashback,38,Competitive Pricing,0.06,Value-Seekers,Yes
+Surveys,None,Free Gift,18,Dynamic Pricing,0.09,Luxury Buyers,Yes
+API Integration,Christmas,Discount,40,Competitive Pricing,-0.07,Price-Sensitive,Yes
+Database Dump,Christmas,Bundle Deal,10,Competitive Pricing,-0.05,Luxury Buyers,Yes
+Database Dump,New Year,Free Gift,20,Dynamic Pricing,0.03,Luxury Buyers,Yes
+Database Dump,None,Discount,7,Dynamic Pricing,-0.08,Brand-Loyal,No
+API Integration,Black Friday,None,40,Competitive Pricing,0.01,Price-Sensitive,Yes
+Database Dump,Black Friday,Cashback,20,Dynamic Pricing,0.02,Value-Seekers,Yes
+Surveys,New Year,Bundle Deal,13,Dynamic Pricing,0.09,Price-Sensitive,Yes
+Web Scraping,Black Friday,Free Gift,46,Competitive Pricing,0.09,Brand-Loyal,No
+API Integration,None,Free Gift,25,Fixed Pricing,0.08,Value-Seekers,No
+Surveys,None,Bundle Deal,43,Competitive Pricing,-0.01,Brand-Loyal,No
+Database Dump,Christmas,None,6,Competitive Pricing,0.04,Value-Seekers,No
+Database Dump,Diwali,Bundle Deal,39,Competitive Pricing,0.03,Value-Seekers,No
+Database Dump,Christmas,Discount,49,Dynamic Pricing,0.09,Luxury Buyers,No
+API Integration,Diwali,Bundle Deal,25,Competitive Pricing,-0.07,Luxury Buyers,Yes
+Database Dump,Christmas,Free Gift,15,Fixed Pricing,-0.09,Price-Sensitive,No
+Web Scraping,New Year,None,31,Dynamic Pricing,-0.01,Luxury Buyers,No
+Surveys,None,Free Gift,24,Competitive Pricing,-0.01,Value-Seekers,Yes
+Database Dump,None,Discount,23,Competitive Pricing,0.08,Price-Sensitive,Yes
+API Integration,Black Friday,Discount,25,Competitive Pricing,-0.09,Luxury Buyers,No
+Surveys,None,Discount,15,Fixed Pricing,-0.09,Luxury Buyers,No
+Surveys,None,Discount,10,Competitive Pricing,0.06,Luxury Buyers,No
+API Integration,None,None,31,Competitive Pricing,0.06,Price-Sensitive,No
+Web Scraping,None,Discount,6,Competitive Pricing,-0.09,Price-Sensitive,Yes
+Web Scraping,Diwali,Bundle Deal,8,Fixed Pricing,0.01,Brand-Loyal,No
+API Integration,Christmas,Discount,45,Competitive Pricing,-0.04,Price-Sensitive,No
+Web Scraping,Christmas,Bundle Deal,35,Dynamic Pricing,0.07,Brand-Loyal,No
+Database Dump,Diwali,Discount,11,Dynamic Pricing,-0.08,Luxury Buyers,No
+Database Dump,None,Free Gift,14,Competitive Pricing,0.07,Value-Seekers,No
+API Integration,New Year,Cashback,48,Dynamic Pricing,-0.05,Price-Sensitive,No
+API Integration,Black Friday,Discount,30,Competitive Pricing,-0.03,Brand-Loyal,Yes
+API Integration,New Year,None,41,Dynamic Pricing,0.01,Luxury Buyers,Yes
+API Integration,New Year,Cashback,22,Dynamic Pricing,-0.04,Value-Seekers,Yes
+API Integration,Diwali,Discount,34,Fixed Pricing,0.01,Brand-Loyal,No
+Web Scraping,Diwali,Free Gift,20,Fixed Pricing,0.01,Price-Sensitive,No
+Web Scraping,Diwali,Free Gift,43,Competitive Pricing,-0.04,Price-Sensitive,Yes
+Web Scraping,Christmas,Free Gift,10,Dynamic Pricing,-0.07,Brand-Loyal,No
+Web Scraping,New Year,None,18,Competitive Pricing,0.05,Luxury Buyers,Yes
+Database Dump,Christmas,None,50,Dynamic Pricing,-0.05,Price-Sensitive,Yes
+Surveys,Diwali,Bundle Deal,41,Dynamic Pricing,0.1,Brand-Loyal,No
+Database Dump,Christmas,None,8,Dynamic Pricing,0.08,Luxury Buyers,No
+API Integration,None,Free Gift,9,Competitive Pricing,-0.07,Brand-Loyal,Yes
+API Integration,None,None,30,Fixed Pricing,-0.1,Price-Sensitive,Yes
+Surveys,Diwali,None,36,Competitive Pricing,-0.04,Price-Sensitive,No
+Web Scraping,New Year,Discount,41,Competitive Pricing,-0.04,Value-Seekers,No
+API Integration,None,Bundle Deal,5,Competitive Pricing,-0.05,Price-Sensitive,Yes
+Web Scraping,New Year,None,30,Competitive Pricing,0.01,Brand-Loyal,No
+Surveys,None,None,13,Dynamic Pricing,0.0,Luxury Buyers,Yes
+API Integration,None,Discount,9,Dynamic Pricing,0.1,Value-Seekers,No
+Surveys,Christmas,Bundle Deal,28,Fixed Pricing,0.04,Luxury Buyers,No
+Surveys,Christmas,Cashback,18,Fixed Pricing,-0.01,Price-Sensitive,No
+Web Scraping,Christmas,None,21,Fixed Pricing,-0.09,Luxury Buyers,No
+Surveys,None,None,35,Fixed Pricing,0.07,Luxury Buyers,Yes
+Web Scraping,Diwali,None,19,Fixed Pricing,-0.02,Price-Sensitive,No
+Web Scraping,Black Friday,Cashback,14,Fixed Pricing,0.05,Brand-Loyal,No
+Surveys,Diwali,None,24,Dynamic Pricing,0.09,Price-Sensitive,No
+Surveys,New Year,Free Gift,39,Competitive Pricing,-0.09,Brand-Loyal,Yes
+Web Scraping,Black Friday,Bundle Deal,32,Fixed Pricing,-0.07,Price-Sensitive,Yes
+API Integration,Black Friday,None,34,Dynamic Pricing,-0.04,Price-Sensitive,Yes
+API Integration,Diwali,None,21,Dynamic Pricing,-0.03,Price-Sensitive,No
+Web Scraping,New Year,None,35,Dynamic Pricing,-0.01,Brand-Loyal,Yes
+Surveys,Christmas,Discount,40,Competitive Pricing,-0.0,Value-Seekers,Yes
+Web Scraping,New Year,None,6,Competitive Pricing,0.05,Price-Sensitive,Yes
+Surveys,None,Bundle Deal,19,Fixed Pricing,0.08,Value-Seekers,Yes
+Web Scraping,None,Free Gift,35,Competitive Pricing,-0.07,Brand-Loyal,No
+Database Dump,Diwali,Cashback,32,Competitive Pricing,0.04,Price-Sensitive,Yes
+Surveys,Christmas,Cashback,30,Dynamic Pricing,-0.0,Value-Seekers,No
+API Integration,None,None,41,Fixed Pricing,-0.01,Price-Sensitive,No
+Surveys,New Year,Free Gift,25,Dynamic Pricing,-0.06,Luxury Buyers,Yes
+Web Scraping,None,Free Gift,46,Fixed Pricing,-0.02,Value-Seekers,Yes
+API Integration,Black Friday,Bundle Deal,37,Competitive Pricing,-0.09,Brand-Loyal,Yes
+Surveys,Diwali,Cashback,6,Competitive Pricing,0.01,Brand-Loyal,Yes
+API Integration,Diwali,Free Gift,17,Competitive Pricing,0.07,Price-Sensitive,No
+Web Scraping,Christmas,Discount,27,Fixed Pricing,-0.02,Brand-Loyal,No
+Surveys,New Year,Cashback,28,Dynamic Pricing,0.05,Price-Sensitive,Yes
+Surveys,Black Friday,Discount,26,Dynamic Pricing,0.01,Luxury Buyers,No
+Web Scraping,Diwali,Discount,43,Competitive Pricing,-0.03,Brand-Loyal,Yes
+API Integration,New Year,Cashback,33,Dynamic Pricing,0.02,Luxury Buyers,No
+Web Scraping,Diwali,Bundle Deal,46,Dynamic Pricing,-0.06,Luxury Buyers,Yes
+Surveys,Christmas,Cashback,31,Fixed Pricing,-0.06,Price-Sensitive,Yes
+Database Dump,None,Free Gift,49,Competitive Pricing,-0.08,Price-Sensitive,No
+API Integration,Diwali,None,20,Fixed Pricing,0.05,Luxury Buyers,Yes
+Surveys,Diwali,None,35,Dynamic Pricing,-0.02,Luxury Buyers,Yes
+Surveys,New Year,Free Gift,33,Competitive Pricing,0.04,Luxury Buyers,Yes
+Surveys,None,None,10,Competitive Pricing,0.07,Price-Sensitive,Yes
+Surveys,None,Free Gift,15,Dynamic Pricing,0.07,Value-Seekers,No
+Web Scraping,None,Bundle Deal,41,Competitive Pricing,0.01,Price-Sensitive,No
+Surveys,Christmas,Cashback,27,Dynamic Pricing,-0.07,Brand-Loyal,Yes
+Surveys,Black Friday,Discount,30,Dynamic Pricing,-0.02,Value-Seekers,Yes
+API Integration,New Year,None,8,Fixed Pricing,0.1,Value-Seekers,No
+API Integration,New Year,Cashback,28,Fixed Pricing,-0.08,Value-Seekers,Yes
+Surveys,Diwali,Bundle Deal,33,Competitive Pricing,-0.08,Price-Sensitive,No
+Surveys,Black Friday,Free Gift,13,Dynamic Pricing,0.06,Value-Seekers,No
+Surveys,Christmas,Cashback,43,Dynamic Pricing,-0.04,Value-Seekers,No
+Database Dump,Christmas,Bundle Deal,45,Dynamic Pricing,0.09,Value-Seekers,Yes
+Database Dump,Diwali,Cashback,9,Dynamic Pricing,-0.01,Luxury Buyers,Yes
+Web Scraping,New Year,Bundle Deal,24,Fixed Pricing,0.08,Value-Seekers,No
+Surveys,Christmas,None,39,Fixed Pricing,-0.08,Luxury Buyers,Yes
+Web Scraping,Black Friday,Free Gift,41,Competitive Pricing,0.04,Value-Seekers,Yes
+Surveys,New Year,Discount,35,Competitive Pricing,-0.02,Value-Seekers,No
+API Integration,Christmas,Discount,7,Dynamic Pricing,0.06,Brand-Loyal,No
+Database Dump,None,Free Gift,39,Fixed Pricing,0.09,Luxury Buyers,No
+API Integration,Diwali,None,9,Competitive Pricing,0.08,Luxury Buyers,Yes
+API Integration,New Year,Discount,5,Competitive Pricing,-0.04,Brand-Loyal,Yes
+Database Dump,Black Friday,None,37,Dynamic Pricing,0.01,Luxury Buyers,Yes
+API Integration,Diwali,Discount,32,Fixed Pricing,-0.07,Luxury Buyers,No
+Surveys,Black Friday,Discount,44,Competitive Pricing,-0.01,Brand-Loyal,No
+Web Scraping,Christmas,Bundle Deal,36,Competitive Pricing,0.03,Value-Seekers,Yes
+Database Dump,New Year,None,49,Fixed Pricing,-0.0,Value-Seekers,Yes
+Web Scraping,None,Discount,13,Competitive Pricing,-0.02,Value-Seekers,Yes
+Web Scraping,Diwali,Discount,45,Fixed Pricing,0.07,Brand-Loyal,No
+Database Dump,None,Bundle Deal,41,Competitive Pricing,-0.1,Brand-Loyal,No
+API Integration,New Year,Bundle Deal,43,Competitive Pricing,-0.01,Brand-Loyal,Yes
+Surveys,Christmas,Free Gift,25,Fixed Pricing,-0.03,Value-Seekers,Yes
+API Integration,Diwali,None,22,Dynamic Pricing,-0.07,Value-Seekers,No
+API Integration,Christmas,Bundle Deal,15,Competitive Pricing,-0.03,Brand-Loyal,No
+Database Dump,None,Discount,33,Dynamic Pricing,-0.05,Price-Sensitive,No
+API Integration,Christmas,Bundle Deal,19,Dynamic Pricing,0.06,Brand-Loyal,No
+Web Scraping,Christmas,None,6,Fixed Pricing,0.04,Price-Sensitive,No
+Web Scraping,New Year,Cashback,10,Dynamic Pricing,0.02,Price-Sensitive,No
+Web Scraping,None,Discount,31,Competitive Pricing,-0.09,Luxury Buyers,No
+API Integration,New Year,Free Gift,6,Dynamic Pricing,0.03,Value-Seekers,Yes
+Database Dump,Christmas,Free Gift,12,Dynamic Pricing,-0.06,Brand-Loyal,Yes
+Web Scraping,Black Friday,Bundle Deal,44,Competitive Pricing,-0.01,Value-Seekers,Yes
+Web Scraping,Diwali,None,35,Dynamic Pricing,0.05,Price-Sensitive,No
+Web Scraping,Christmas,None,47,Fixed Pricing,-0.07,Luxury Buyers,No
+API Integration,Diwali,Discount,13,Dynamic Pricing,0.02,Luxury Buyers,Yes
+Web Scraping,Christmas,None,16,Fixed Pricing,0.04,Luxury Buyers,Yes
+Surveys,Diwali,None,16,Fixed Pricing,0.07,Value-Seekers,Yes
+Surveys,None,Cashback,26,Dynamic Pricing,-0.02,Price-Sensitive,No
+Database Dump,Black Friday,None,27,Competitive Pricing,-0.09,Price-Sensitive,Yes
+API Integration,Christmas,Discount,27,Competitive Pricing,0.04,Price-Sensitive,No
+Web Scraping,New Year,None,15,Fixed Pricing,0.07,Brand-Loyal,No
+Database Dump,None,Discount,18,Dynamic Pricing,-0.05,Value-Seekers,No
+Surveys,Christmas,Bundle Deal,38,Dynamic Pricing,0.09,Value-Seekers,No
+Web Scraping,New Year,Discount,9,Dynamic Pricing,0.04,Brand-Loyal,No
+Surveys,Christmas,Bundle Deal,15,Dynamic Pricing,0.01,Brand-Loyal,Yes
+Web Scraping,Black Friday,Bundle Deal,19,Competitive Pricing,-0.05,Price-Sensitive,No
+API Integration,None,Discount,46,Fixed Pricing,0.05,Luxury Buyers,Yes
